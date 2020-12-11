@@ -32,7 +32,7 @@ VECTOR_SIZE = 785
 def get_one_hot(raw_set):
     # Return the vector with the real label marked 1, others marked 0
     mask = np.arange(NUMBER_OF_LABELS)
-    set_one_hot = (mask == raw_set).astype('float16')
+    set_one_hot = (mask == raw_set).astype('float64')
     # add check for 0 & 1 values, convert to 0.01 & 0.99
     set_one_hot[set_one_hot == 0] = 0.01
     set_one_hot[set_one_hot == 1] = 0.99
@@ -44,23 +44,23 @@ class MNIST:
     def __init__(self, X_train, X_test, X_val, t_train, t_test, t_val, W):
         # X sets & one hot form
         self.X_train = X_train
-        self.X_train_OH = get_one_hot(X_train)
+        #self.X_train_OH = get_one_hot(X_train)
 
         self.X_test = X_test
-        self.X_test_OH = get_one_hot(X_test)
+        #self.X_test_OH = get_one_hot(X_test)
 
         self.X_val = X_val
-        self.X_val_OH = get_one_hot(X_val)
+        #self.X_val_OH = get_one_hot(X_val)
 
         # t sets & one hot form
         self.t_train = t_train
-        self.t_train_OH = get_one_hot(t_train)
+        #self.t_train_OH = get_one_hot(t_train)
 
         self.t_test = t_test
-        self.t_test_OH = get_one_hot(t_test)
+        #self.t_test_OH = get_one_hot(t_test)
 
         self.t_val = t_val
-        self.t_val_OH = get_one_hot(t_val)
+        #self.t_val_OH = get_one_hot(t_val)
 
         self.N = X_train.shape[0]
         self.W = W
@@ -70,10 +70,10 @@ class MNIST:
     def get_y(self, train_vector, k):
         W = self.W
 
-        numerator = math.exp(np.transpose(W[k]) * train_vector)
+        numerator = math.exp(np.dot(W[k] , np.transpose(train_vector)))
         denominator = 0
         for element in range(NUMBER_OF_LABELS):
-            denominator += math.exp(np.transpose(W[element]) * train_vector)
+            denominator += math.exp(np.dot(np.transpose(W[element]) , train_vector))
         return numerator / denominator
 
 
@@ -124,11 +124,11 @@ class MNIST:
 
         W = self.W
         X = self.X_train
-        X_OH = self.X_train_OH
+        #X_OH = self.X_train_OH
         N = self.N
         t = self.t_train
 
-        for n in len(range(X)):
+        for n in range(50000):
             # Every iteration trains by 1 img and corrects the W matrix
             y_vector = np.array((1, NUMBER_OF_LABELS))
 
@@ -157,8 +157,8 @@ class MNIST:
 #1- load MNIST DataBase.
 mnist = fetch_openml('mnist_784')
 #X = mnist['data'].astype('float64')
-X = mnist['data'].astype('float16')#each row is a 28x28 photo.
-t = mnist['target'].astype('int16')
+X = mnist['data'].astype('float64')#each row is a 28x28 photo.
+t = mnist['target'].astype('int64')
 
 #transform t into hot vectors array:
 h = np.zeros((t.size, 10))
@@ -173,10 +173,10 @@ t = t[permutation] #aranging the correct labels accordingly.
 
 #2- flatten the data from pictures to vectors.
 #its already done in the begging, isn't it?
-#X = X.reshape((X.shape[0], 785)) #This line flattens the image into a vector of size 784
+X = X.reshape((X.shape[0], -1)) #This line flattens the image into a vector of size 784
 
 #3- construct the X matrix.
-X= np.c_[X, np.ones(X.shape[0]).astype('float16')] # adding '1' to the end of each photo vector.
+X= np.c_[X, np.ones(X.shape[0]).astype('float64')] # adding '1' to the end of each photo vector.
 #X=[x0^T,x1^T...,x9^T]^T
 
 #4- split the DataBse into: training set- 60%, validation set- 20%, test set-20%.
@@ -184,25 +184,38 @@ X_train, X_test, t_train, t_test = train_test_split(X, t, train_size= 0.6)
 X_test, X_val,t_test, t_val= train_test_split(X_test, t_test, test_size= 0.5) # split half of the test_set into validation set.
 
 #5 - initialize the Wights vectors
-W = np.random.rand(10,785).astype('float16') #W=[w0^T,w1^T...,w9^T]^T
-
+W = np.random.rand(10,785).astype('float64') #W=[w0^T,w1^T...,w9^T]^T
 # initialize the class element
-subject = MNIST(X_train, X_test, X_val, t_train, t_test, t_val, W)
+#subject = MNIST(X_train, X_test, X_val, t_train, t_test, t_val, W)
 
-subject.train()
-
-
-
-#6- the Error function:
-#stuck here
-#the code below dosent work
-# a= W.dot(np.transpose(X_train))
-# y= np.exp(a)/np.sum(np.exp(a)) #soft max
-
-
+#subject.train()
 
 # The next lines standardize the images
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 X_val = scaler.transform(X_val)
+tests =0
+prev =0
+while tests < 9:
+#6- the Error function:
+    fac = 0.99 / 255
+    a= W.dot(np.transpose(X_train) * fac + 0.01)
+    #print(a)
+
+    #exps = np.exp(a-np.max(a))
+    #y = exps / np.sum(exps)
+    y= np.exp(a)/np.sum(np.exp(a)) #soft max
+    #print(y)
+
+    cel= -np.sum(t_train.dot(np.log(y)))
+    print ("test "+str(tests)+": error="+str(cel))
+    if prev != 0:
+        print("improved by: "+ str(prev - cel))
+
+    prev = cel
+    grad = np.transpose(X_train).dot(np.transpose(y)-t_train)
+    eta = 0.001
+
+    W = W - eta * np.transpose(grad)
+    tests += 1
