@@ -1,0 +1,14 @@
+test 0: error=18680692277.693928correct guesses: 9054
+correct in t_val: 64.67142857142856%
+test 1: error=nancorrect guesses: 11425
+correct in t_val: 81.60714285714286%
+test 2: error=nancorrect guesses: 11900
+correct in t_val: 85.0%
+test 3: error=nancorrect guesses: 12135
+correct in t_val: 86.67857142857143%
+test 4: error=nancorrect guesses: 12300
+correct in t_val: 87.85714285714286%
+test 5: error=nancorrect guesses: 12409
+correct in t_val: 88.63571428571429%
+test 6: error=nancorrect guesses: 12488
+correct in t_val: 89.2%

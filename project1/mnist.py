@@ -197,25 +197,59 @@ X_test = scaler.transform(X_test)
 X_val = scaler.transform(X_val)
 tests =0
 prev =0
-while tests < 9:
+
+def softmax(x):
+    exp_x = np.exp(x - np.max(x, axis=1, keepdims=True))
+    return np.divide(exp_x , np.sum(exp_x, axis=1, keepdims=True))
+f = open("mnist.txt", "a")
+
+
+
+while tests < 7:
 #6- the Error function:
     fac = 0.99 / 255
-    a= W.dot(np.transpose(X_train) * fac + 0.01)
+    #X_train = np.multiply(X_train , fac)
+    a= W.dot(X_train.T).T
     #print(a)
-
+    y = softmax(a)
     #exps = np.exp(a-np.max(a))
-    #y = exps / np.sum(exps)
-    y= np.exp(a)/np.sum(np.exp(a)) #soft max
+    #y = np.divide(exps , np.sum(exps))
+    #y= np.divide(np.exp(a),np.sum(np.exp(a))) #soft max
     #print(y)
 
-    cel= -np.sum(t_train.dot(np.log(y)))
+    N = X_train.shape[0]
+    #log_likelihood = -np.log(y[range(N), t_train])
+    cel= -np.sum(t_train.dot(np.log(y.T)))
+    #cel = np.sum(log_likelihood) / N
     print ("test "+str(tests)+": error="+str(cel))
+    f.write("test "+str(tests)+": error="+str(cel))
     if prev != 0:
-        print("improved by: "+ str(prev - cel))
+        print("improved by: "+ str(prev - cel)+"\n")
 
     prev = cel
-    grad = np.transpose(X_train).dot(np.transpose(y)-t_train)
-    eta = 0.001
+    grad = X_train.T.dot(y-t_train)
+    eta = 0.01
+    #grad_no_bias = grad[:-1, :]
+    #grad_no_bias = np.c_[grad_no_bias, np.zeros(grad_no_bias.shape[0]).astype('float64')]
+    # grad_no_bias = grad
+    # grad_no_bias[:, 9] = 0
+    W = W - np.multiply(eta, grad.T)
 
-    W = W - eta * np.transpose(grad)
+
+    # Validation
+    X_val = np.multiply(X_val , fac)
+    b = np.transpose(W.dot(np.transpose(X_val)))
+    yv = np.divide(np.exp(b),np.sum(np.exp(b))) #soft max
+    guesses = yv.argmax(axis = 1)
+    answers = t_val.argmax(axis=1)
+    corrects_mat = np.equal(guesses, answers)
+    corrects = np.sum(corrects_mat)
+    print("correct guesses: "+str(corrects))
+    print("correct in t_val: "+str(corrects/guesses.shape[0] * 100)+"%")
+    f.write("correct guesses: "+str(corrects)+"\n")
+    f.write("correct in t_val: "+str(corrects/guesses.shape[0] * 100)+"%\n")
+
+
+    # increment test
     tests += 1
+f.close()
