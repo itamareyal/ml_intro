@@ -9,6 +9,9 @@
 '''
     IMPORTS
 '''
+from datetime import datetime
+start_time = datetime.now()
+
 import matplotlib.pyplot as plt
 import math
 from sklearn.datasets import fetch_openml
@@ -16,6 +19,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import check_random_state
 import numpy as np
+
 
 '''
     DEFINES
@@ -154,9 +158,9 @@ class MNIST:
     EXECUTION
 '''
 
+
 #1- load MNIST DataBase.
 mnist = fetch_openml('mnist_784')
-#X = mnist['data'].astype('float64')
 X = mnist['data'].astype('float64')#each row is a 28x28 photo.
 t = mnist['target'].astype('int64')
 
@@ -183,12 +187,9 @@ X= np.c_[X, np.ones(X.shape[0]).astype('float64')] # adding '1' to the end of ea
 X_train, X_test, t_train, t_test = train_test_split(X, t, train_size= 0.6)
 X_test, X_val,t_test, t_val= train_test_split(X_test, t_test, test_size= 0.5) # split half of the test_set into validation set.
 
-#5 - initialize the Wights vectors
+#5 - initialize the Wights vectors, values [0,1]
 W = np.random.rand(10,785).astype('float64') #W=[w0^T,w1^T...,w9^T]^T
-# initialize the class element
-#subject = MNIST(X_train, X_test, X_val, t_train, t_test, t_val, W)
-
-#subject.train()
+W[W == 0] = 0.01
 
 # The next lines standardize the images
 scaler = StandardScaler()
@@ -197,38 +198,47 @@ X_test = scaler.transform(X_test)
 X_val = scaler.transform(X_val)
 tests =0
 prev =0
+prev_correct_p =0
 
 def softmax(x):
     exp_x = np.exp(x - np.max(x, axis=1, keepdims=True))
     return np.divide(exp_x , np.sum(exp_x, axis=1, keepdims=True))
+
+
 f = open("mnist.txt", "a")
+f.write("\n\nNew test called at: "+str(start_time)+"\n")
 
 
-
-while tests < 7:
+while tests < 50:
 #6- the Error function:
-    fac = 0.99 / 255
+    #fac = 0.99 / 255
     #X_train = np.multiply(X_train , fac)
     a= W.dot(X_train.T).T
+    #f.write("\n\ntrain "+str(tests)+":\n")
+    #f.write("a "+str(a)+"\n")
     #print(a)
     y = softmax(a)
+
+    #f.write("y "+str(y)+"\n")
     #exps = np.exp(a-np.max(a))
     #y = np.divide(exps , np.sum(exps))
     #y= np.divide(np.exp(a),np.sum(np.exp(a))) #soft max
     #print(y)
 
-    N = X_train.shape[0]
     #log_likelihood = -np.log(y[range(N), t_train])
-    cel= -np.sum(t_train.dot(np.log(y.T)))
+    #bc = t_train.dot(np.log(y.T))
+    cc = t_train.T.dot(np.log(y))
+    #f.write("cc "+str(cc)+"\n")
+    cel= -np.sum(cc)
     #cel = np.sum(log_likelihood) / N
     print ("test "+str(tests)+": error="+str(cel))
-    f.write("test "+str(tests)+": error="+str(cel))
+    #f.write("test "+str(tests)+": error="+str(cel)+"\n")
     if prev != 0:
         print("improved by: "+ str(prev - cel)+"\n")
 
     prev = cel
     grad = X_train.T.dot(y-t_train)
-    eta = 0.01
+    eta = 0.009
     #grad_no_bias = grad[:-1, :]
     #grad_no_bias = np.c_[grad_no_bias, np.zeros(grad_no_bias.shape[0]).astype('float64')]
     # grad_no_bias = grad
@@ -237,19 +247,30 @@ while tests < 7:
 
 
     # Validation
-    X_val = np.multiply(X_val , fac)
+    #X_val = np.multiply(X_val , fac)
     b = np.transpose(W.dot(np.transpose(X_val)))
-    yv = np.divide(np.exp(b),np.sum(np.exp(b))) #soft max
+    yv = softmax(b) #soft max
     guesses = yv.argmax(axis = 1)
     answers = t_val.argmax(axis=1)
     corrects_mat = np.equal(guesses, answers)
     corrects = np.sum(corrects_mat)
     print("correct guesses: "+str(corrects))
+    correct_p = corrects/guesses.shape[0] * 100
     print("correct in t_val: "+str(corrects/guesses.shape[0] * 100)+"%")
+
+    print("%.2f" % correct_p + "%")
     f.write("correct guesses: "+str(corrects)+"\n")
-    f.write("correct in t_val: "+str(corrects/guesses.shape[0] * 100)+"%\n")
+    f.write("correct in t_val: "+"%.2f" % correct_p+"%\n")
 
+    if abs(prev_correct_p - correct_p) < 0.2 and correct_p > 90:
+        break
+    else:
+        prev_correct_p = correct_p
 
+    
     # increment test
     tests += 1
+f.write("Total running time: "+str(datetime.now() - start_time)+"\n")
+f.write("Total iterations: "+str(tests)+"\n")
+f.write("Program finished successfully.\n")
 f.close()

@@ -12,3 +12,3668 @@ test 5: error=nancorrect guesses: 12409
 correct in t_val: 88.63571428571429%
 test 6: error=nancorrect guesses: 12488
 correct in t_val: 89.2%
+test 0: error=20207640062.555767correct guesses: 9734
+correct in t_val: 69.52857142857142%
+test 1: error=nancorrect guesses: 10840
+correct in t_val: 77.42857142857143%
+test 2: error=nancorrect guesses: 11315
+correct in t_val: 80.82142857142857%
+test 3: error=nancorrect guesses: 11624
+correct in t_val: 83.02857142857142%
+test 4: error=nancorrect guesses: 12054
+correct in t_val: 86.1%
+test 5: error=nancorrect guesses: 12333
+correct in t_val: 88.09285714285714%
+test 6: error=nancorrect guesses: 12451
+correct in t_val: 88.93571428571428%
+test 7: error=nancorrect guesses: 9916
+correct in t_val: 70.82857142857144%
+test 8: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 9: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 10: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 11: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 12: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 13: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 14: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 15: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 16: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 17: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 18: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+test 19: error=nancorrect guesses: 1415
+correct in t_val: 10.107142857142858%
+
+
+New test called at: 1607933164.891475
+test 0: error=4362412.018822151correct guesses: 9556
+correct in t_val: 68.25714285714287%
+test 1: error=nancorrect guesses: 11303
+correct in t_val: 80.7357142857143%
+test 2: error=nancorrect guesses: 11736
+correct in t_val: 83.82857142857144%
+test 3: error=nancorrect guesses: 12066
+correct in t_val: 86.18571428571428%
+test 4: error=nancorrect guesses: 12240
+correct in t_val: 87.42857142857143%
+test 5: error=nancorrect guesses: 12387
+correct in t_val: 88.47857142857143%
+test 6: error=nancorrect guesses: 12465
+correct in t_val: 89.03571428571428%
+test 7: error=nancorrect guesses: 8472
+correct in t_val: 60.51428571428571%
+test 8: error=nancorrect guesses: 1337
+correct in t_val: 9.55%
+test 9: error=nancorrect guesses: 1337
+correct in t_val: 9.55%
+Total running time: -1.8546149730682373
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 1607933327.2099931
+test 0: error=4404237.680833104correct guesses: 9237
+correct in t_val: 65.97857142857143%
+test 1: error=nancorrect guesses: 11252
+correct in t_val: 80.37142857142857%
+test 2: error=nancorrect guesses: 11655
+correct in t_val: 83.25%
+test 3: error=nancorrect guesses: 11668
+correct in t_val: 83.34285714285714%
+test 4: error=nancorrect guesses: 11621
+correct in t_val: 83.00714285714285%
+test 5: error=nancorrect guesses: 11691
+correct in t_val: 83.50714285714285%
+test 6: error=nancorrect guesses: 11933
+correct in t_val: 85.23571428571428%
+test 7: error=nancorrect guesses: 9765
+correct in t_val: 69.75%
+test 8: error=nancorrect guesses: 1409
+correct in t_val: 10.064285714285715%
+test 9: error=nancorrect guesses: 1409
+correct in t_val: 10.064285714285715%
+Total running time: -1.7981069087982178
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:20:03.762135
+test 0: error=4424172.316040477correct guesses: 10032
+correct in t_val: 71.65714285714286%
+test 1: error=nancorrect guesses: 10971
+correct in t_val: 78.36428571428571%
+test 2: error=nancorrect guesses: 11221
+correct in t_val: 80.15%
+test 3: error=nancorrect guesses: 11560
+correct in t_val: 82.57142857142857%
+test 4: error=nancorrect guesses: 11988
+correct in t_val: 85.62857142857143%
+test 5: error=nancorrect guesses: 12288
+correct in t_val: 87.77142857142857%
+test 6: error=nancorrect guesses: 12479
+correct in t_val: 89.13571428571429%
+test 7: error=nancorrect guesses: 8253
+correct in t_val: 58.95%
+test 8: error=nancorrect guesses: 1410
+correct in t_val: 10.071428571428571%
+test 9: error=nancorrect guesses: 1410
+correct in t_val: 10.071428571428571%
+Total running time: 0:00:01.826042
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:22:23.517870
+test 0: error=4474718.042700103
+correct guesses: 9147
+correct in t_val: 65.33571428571429%
+test 1: error=nan
+correct guesses: 10795
+correct in t_val: 77.10714285714285%
+test 2: error=nan
+correct guesses: 11229
+correct in t_val: 80.20714285714286%
+test 3: error=nan
+correct guesses: 11581
+correct in t_val: 82.72142857142856%
+test 4: error=nan
+correct guesses: 12040
+correct in t_val: 86.0%
+test 5: error=nan
+correct guesses: 12293
+correct in t_val: 87.80714285714286%
+test 6: error=nan
+correct guesses: 12376
+correct in t_val: 88.4%
+test 7: error=nan
+correct guesses: 8644
+correct in t_val: 61.74285714285715%
+test 8: error=nan
+correct guesses: 1386
+correct in t_val: 9.9%
+test 9: error=nan
+correct guesses: 1386
+correct in t_val: 9.9%
+Total running time: 0:00:01.763980
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:24:34.556497
+test 0: error=4563583.913798478
+correct guesses: 7884
+correct in t_val: 56.31428571428572%
+test 1: error=nan
+correct guesses: 10628
+correct in t_val: 75.91428571428571%
+test 2: error=nan
+correct guesses: 11322
+correct in t_val: 80.87142857142857%
+test 3: error=nan
+correct guesses: 11922
+correct in t_val: 85.15714285714286%
+test 4: error=nan
+correct guesses: 12238
+correct in t_val: 87.41428571428571%
+test 5: error=nan
+correct guesses: 12343
+correct in t_val: 88.16428571428571%
+test 6: error=nan
+correct guesses: 12418
+correct in t_val: 88.7%
+test 7: error=nan
+correct guesses: 9791
+correct in t_val: 69.93571428571428%
+test 8: error=nan
+correct guesses: 1354
+correct in t_val: 9.67142857142857%
+test 9: error=nan
+correct guesses: 1354
+correct in t_val: 9.67142857142857%
+Total running time: 0:00:29.124914
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:28:38.340430
+
+
+train 0:
+a [[ 58.51173073  73.11248589  80.71077672 ...  56.09314772  64.9324626
+   58.48758607]
+ [-58.18490938 -60.20580191 -54.84358372 ... -58.08969615 -59.23762731
+  -66.34754171]
+ [ 13.14165012   7.19326624   1.06115771 ...  12.7363485    4.93177881
+   12.20568506]
+ ...
+ [ 67.08078177  67.81616735  61.09798456 ...  72.50769612  72.05541464
+   78.17587174]
+ [-78.5838634  -77.691278   -85.3439928  ... -82.15258235 -86.22282902
+  -78.36118449]
+ [ 54.0869802   53.43067595  63.15415603 ...  60.50763456  61.7734849
+   43.45034178]]
+y [[2.11279551e-10 4.63324069e-04 9.24231237e-01 ... 1.88139598e-11
+  1.29821280e-07 2.06239370e-10]
+ [1.36093912e-03 1.80374950e-04 3.84554582e-02 ... 1.49688790e-03
+  4.74951328e-04 3.88018575e-07]
+ [4.84350795e-01 1.26418235e-03 2.74579954e-06 ... 3.22953326e-01
+  1.31721969e-04 1.89965860e-01]
+ ...
+ [1.50376513e-05 3.13728455e-05 3.79213852e-08 ... 3.42025876e-03
+  2.17588338e-03 9.90185037e-01]
+ [1.28689088e-01 3.14185860e-01 1.49160842e-04 ... 3.62799581e-03
+  6.19414129e-05 1.60786634e-01]
+ [8.25261231e-05 4.28116661e-05 7.15180841e-01 ... 5.07044647e-02
+  1.79803450e-01 1.98224838e-09]]
+cc [[-45266.89683491 -39473.61028644 -72229.63658367 -26778.85458609
+  -31087.4951353  -64077.31176631 -37291.24586362 -45250.24957294
+  -63360.64020518 -25823.50979367]
+ [-43137.39483748 -63571.51144196  -4371.54799649 -55302.36227992
+  -43535.10699237 -42405.95708829 -44724.7528262  -59589.40255409
+  -27521.91691317 -44381.7917344 ]
+ [-49006.72778752 -35492.52228577 -31829.0965396  -47992.85436569
+  -68882.82428256 -66299.0919084  -55744.3338175  -61500.39101235
+  -63021.97293982 -54803.28785571]
+ [-51266.95297747 -43454.43982896 -32934.73218259 -35249.33787275
+  -35580.31208867 -54455.50527592 -36612.95057925 -54326.01823409
+  -35595.41674635 -49591.30926647]
+ [-44094.81736055 -40583.52302663 -58774.3858387  -44337.14031181
+  -49959.12677665 -22718.64097974 -46186.6843394  -22525.44559627
+  -32891.85555389 -44003.11680284]
+ [-47995.84972255 -30278.13890076 -45118.91051189 -37551.79931201
+  -33796.39193437 -36716.86869614 -44647.58363486 -34957.87595234
+  -30404.48981102 -43746.62681692]
+ [-34960.03609817 -36543.14863266 -46750.34623784 -63910.04884889
+  -59314.16714461 -44575.31890164 -68546.83853492 -46887.69813676
+  -57333.02861571 -43010.84739141]
+ [-44917.70698239 -65301.41825065 -61890.79603925 -49716.56859811
+  -39068.69707145 -36126.96487163 -36616.04130746 -46741.91714586
+  -74558.8101474  -54867.20555706]
+ [-45443.93983758 -40233.6380358  -33858.68538907 -28865.13595577
+  -45489.75896832 -43083.59566205 -35318.06199715 -42331.9419387
+  -20949.77782875 -42585.6518872 ]
+ [-34878.48131395 -46036.85306295 -53210.66643347 -51264.70162153
+  -34254.92335826 -30509.54860245 -35280.31085222 -26857.86360917
+  -35330.89499128 -38155.4566469 ]]
+test 0: error=4409688.037525717
+
+
+New test called at: 2020-12-14 10:29:38.938498
+
+
+train 0:
+a [[ 32.31139169  26.50081634  11.8510416  ...  21.22633268  23.23224225
+   30.86163791]
+ [-83.95257054 -74.74122107 -81.07375607 ... -78.05642728 -82.28975326
+  -77.87866017]
+ [150.2858644  139.51443995 149.45574432 ... 144.21191716 149.38897453
+  144.7158663 ]
+ ...
+ [  6.98794923   8.31354222   7.37059485 ...   2.37448473  12.14121608
+   -3.19723022]
+ [106.0911795  105.07837717 115.04512655 ... 105.62605264 106.25685224
+   98.58689189]
+ [-46.59465764 -35.08567286 -39.78514471 ... -37.01772584 -40.63932027
+  -39.82822474]]
+y [[1.94268807e-04 5.81972227e-07 2.52688763e-13 ... 2.98004700e-09
+  2.21502468e-08 4.55809113e-05]
+ [2.77207878e-05 2.77487750e-01 4.93240588e-04 ... 1.00801746e-02
+  1.46203557e-04 1.20412432e-02]
+ [2.89502146e-01 6.07689297e-06 1.26222047e-01 ... 6.66453754e-04
+  1.18069430e-01 1.10314436e-03]
+ ...
+ [4.87655213e-03 1.83573756e-02 7.14979772e-03 ... 4.83627177e-05
+  8.43622652e-01 1.83969421e-07]
+ [7.16392427e-05 2.60193547e-05 5.54371357e-01 ... 4.49934148e-05
+  8.45476890e-05 3.94530232e-08]
+ [2.48607112e-06 2.47629355e-01 2.25344745e-03 ... 3.58692404e-02
+  9.59143750e-04 2.15843023e-03]]
+cc [[-29432.50717166 -28605.71708963 -31373.59130803 -53466.25923168
+  -46150.64730507 -31097.7677608  -48696.22437233 -52990.15297999
+  -32215.12893583 -53809.2512031 ]
+ [-24191.07577028 -23094.80318515 -44128.80493038 -22029.15525144
+  -36118.40221565 -24324.56037403 -34455.77834021 -30103.83740753
+  -42988.5364603  -26406.82449057]
+ [-48789.86947395 -58607.00125339 -45479.42437932 -43681.11787658
+  -45583.0908701  -39519.27469185 -57612.9864807  -78850.79640563
+  -36580.00065891 -53569.50398811]
+ [-40426.24767224 -47406.55842156 -55469.98307735 -62906.47506725
+  -25196.40672646 -44299.24481578 -50510.40685558 -58957.03182205
+  -35626.11655824 -44508.54111785]
+ [-44952.38492465 -52055.95612455 -30510.48810003 -34565.02953216
+  -43808.00360136 -51634.50998093 -32521.60547184 -24008.90595068
+  -37681.06146704 -43655.17651525]
+ [-41634.61597997 -33921.72287198 -48473.81625058 -57264.04484208
+  -43372.8308338  -45007.5447204  -37120.43647614 -31633.09648413
+  -35901.3242315  -33553.97064287]
+ [-62584.29606498 -39095.85090607 -31296.96376991 -27403.67960255
+  -57318.70258497 -35991.8353504  -43526.32435909 -81731.00655882
+  -64838.87438515 -68816.52714693]
+ [-46060.60333886 -68667.78515513 -57532.54209377 -48568.17915362
+  -64605.2469019  -61357.79073404 -64216.72559171 -21450.76068313
+  -67955.12525885 -44014.66894145]
+ [-37189.11062894 -34226.48910503 -45117.31262056 -41983.79182177
+  -29634.68848325 -51388.45018967 -27539.08035522 -34373.00217551
+  -33955.14402639 -35270.4530752 ]
+ [-57343.17003222 -46921.99694527 -43220.95452782 -40736.14867862
+  -40815.86153518 -47982.90243986 -36404.31275494 -18505.29059028
+  -44862.56907553 -28998.96393641]]
+test 0: error=4326038.810577486
+correct guesses: 4514
+correct in t_val: 32.24285714285715%
+
+
+train 1:
+a [[  706.61324261  -927.91824335  2702.6747883  ...  1808.0428054
+  -1305.7028245  -1695.88783525]
+ [-3652.83599613  4899.96390341  1091.65402428 ...  -318.07762174
+    730.69294656  -437.49576004]
+ [13398.80949615 -7611.18722967 -2592.0603027  ...  1158.09598846
+  -2384.18296208  -385.29053522]
+ ...
+ [ 5478.73037475 -3003.153039   -1290.50241705 ...   417.7797523
+  -2284.8663232     58.20730492]
+ [ 1996.27835313 -3918.48151993  -973.66922038 ...   131.55790148
+   3496.493184    -277.85971382]
+ [-1157.99519518   185.5325828  -1228.99250854 ...    87.67710261
+   -354.48951253   488.58929638]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 1: error=nan
+correct guesses: 6487
+correct in t_val: 46.33571428571429%
+
+
+train 2:
+a [[ 2.21320218e+02  1.73552913e+02  2.73704824e+03 ...  4.88687047e+02
+  -1.10757461e+03 -3.31057294e+03]
+ [-2.21847275e+03  2.45674390e+03  1.00579732e+03 ...  3.21945398e+02
+   5.27695470e+02 -6.50897327e+02]
+ [ 9.21040585e+03 -2.57383708e+03 -1.96464529e+03 ... -8.80291736e+01
+  -3.41415876e+03 -1.33875760e+03]
+ ...
+ [ 4.28240802e+03 -1.13372719e+03 -1.15336523e+03 ...  1.32557663e+02
+  -2.25098466e+03 -1.98523408e+02]
+ [ 9.88570179e+02 -2.73486337e+03 -1.17253225e+03 ...  3.44675414e+02
+   4.15080939e+03 -3.29637531e+01]
+ [-8.49524080e+02  2.70910108e+02 -1.38570408e+03 ... -2.15331684e+02
+  -8.52082615e+00  6.90240485e+02]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 2: error=nan
+correct guesses: 6473
+correct in t_val: 46.23571428571429%
+
+
+train 3:
+a [[  -21.63233065   150.18263068  2449.36696829 ...   137.46773493
+   -845.19165997 -1705.64870851]
+ [-1784.82682414  2540.42979269   911.4329384  ...   345.68010265
+   -107.8637109   -115.41938038]
+ [ 7926.03242067 -2645.73521907 -1638.66183677 ...  -182.01995201
+  -2629.31070974   358.47842173]
+ ...
+ [ 3724.39606571 -1280.8303746   -954.88608088 ...   140.8567723
+  -1677.44021968   275.52022877]
+ [  581.85707067 -2601.8420175  -1191.07432881 ...   265.60318185
+   4620.14520744    13.79591212]
+ [ -811.46605003   227.19811182 -1374.14860473 ...  -207.62328684
+     98.26130641   -15.30687157]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 3: error=nan
+correct guesses: 7075
+correct in t_val: 50.535714285714285%
+
+
+train 4:
+a [[  -78.07391065   184.13503133  2347.88831304 ...   398.02669219
+   -699.27177624 -2692.03884882]
+ [-1531.93497826  2211.78733732   878.74211295 ...   316.62141357
+   -168.73150682  -413.18409094]
+ [ 7072.54604529 -2186.02632427 -1583.18489639 ...   315.55847132
+  -2443.39764013  -737.44885332]
+ ...
+ [ 3367.06616156 -1116.64314788  -836.66243526 ...   292.14668424
+  -1493.46815236    61.9516123 ]
+ [  310.53554634 -2306.16404993 -1213.59767608 ...   117.56547888
+   4660.29291562   -17.5772651 ]
+ [ -747.18782991   196.05622932 -1331.95773519 ...  -308.60279723
+    115.94375509   627.12752947]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 4: error=nan
+correct guesses: 6930
+correct in t_val: 49.5%
+
+
+train 5:
+a [[  -91.14532628   205.40040506  2219.70794924 ...   155.69873222
+   -600.79729084 -2050.1433286 ]
+ [-1380.74717157  2039.32339363   833.76840893 ...   288.28801576
+   -215.62470614  -166.501349  ]
+ [ 6547.39911648 -1976.91833114 -1489.24779724 ...   170.06141197
+  -2401.73411718   278.90876027]
+ ...
+ [ 3118.38061244 -1067.79863078  -725.5305959  ...   294.58834946
+  -1355.67614859   286.41212658]
+ [  157.34701334 -2115.62000569 -1169.25308746 ...    48.72362231
+   4669.97965104    17.85535243]
+ [ -701.28987717   160.85682009 -1302.5879845  ...  -210.3966194
+    219.9001487     71.9326151 ]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 5: error=nan
+correct guesses: 7109
+correct in t_val: 50.778571428571425%
+
+
+train 6:
+a [[  -51.86149619   235.21890325  2107.00916751 ...   229.13192463
+   -516.58829506 -2171.87235411]
+ [-1258.85963505  1897.41233863   796.17600311 ...   281.14649212
+   -209.18640724  -189.98946465]
+ [ 6095.86088342 -1825.81140763 -1438.16402035 ...   396.7740008
+  -2325.66407572    57.92055176]
+ ...
+ [ 2912.2911344  -1027.57201911  -623.03763891 ...   366.46537393
+  -1258.33750608   224.50958959]
+ [   46.73042658 -1967.55420596 -1140.54332051 ...   -14.80197544
+   4593.85597231   -29.47328241]
+ [ -642.08964338   141.69586008 -1257.78422339 ...  -297.71012033
+    225.64102223   244.96831326]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 6: error=nan
+correct guesses: 7234
+correct in t_val: 51.67142857142857%
+
+
+train 7:
+a [[  -22.76039353   262.18842773  2042.19917298 ...   186.94413875
+   -447.10122805 -2065.26429864]
+ [-1170.9027859   1787.44941291   753.29813004 ...   283.84647416
+   -198.18247876  -214.25772286]
+ [ 5769.84453461 -1728.71047553 -1377.69306451 ...   398.19311646
+  -2255.06088634   196.16550048]
+ ...
+ [ 2749.03313506 -1004.28871727  -529.83694288 ...   369.81704716
+  -1178.08814244   266.56586694]
+ [  -21.85297227 -1848.46324346 -1081.59123626 ...   -74.89220183
+   4501.52602876   -41.33172685]
+ [ -595.03923988   127.07207496 -1221.44520624 ...  -289.88752134
+    246.22688514   250.29113232]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 7: error=nan
+correct guesses: 7371
+correct in t_val: 52.65%
+
+
+train 8:
+a [[   20.51956105   287.75596584  1947.03823621 ...   181.12278042
+   -401.38331081 -2037.42494762]
+ [-1097.34081575  1695.27355225   708.59286545 ...   266.529623
+   -179.45928114  -221.96297883]
+ [ 5496.12395046 -1653.21199948 -1294.07740333 ...   473.53807168
+  -2200.51620176   205.80007133]
+ ...
+ [ 2611.23661406  -986.82099972  -445.12750512 ...   387.10688795
+  -1110.93570257   268.32592765]
+ [  -84.73742804 -1747.77197314 -1019.20142096 ...  -120.90063456
+   4412.38087407   -50.81326157]
+ [ -545.69392237   114.56953846 -1191.81298419 ...  -284.94624208
+    244.50388216   271.8037884 ]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 8: error=nan
+correct guesses: 7487
+correct in t_val: 53.47857142857143%
+
+
+train 9:
+a [[   41.86249256   310.83283353  1907.39828351 ...   162.9636406
+   -353.34347496 -1974.65807379]
+ [-1028.83397121  1611.10004711   660.80838589 ...   249.62723712
+   -158.84083956  -230.04410813]
+ [ 5228.72009127 -1583.61330647 -1219.0800758  ...   534.39031569
+  -2177.07256893   220.29044172]
+ ...
+ [ 2479.10088821  -971.98907034  -362.43598914 ...   402.53764627
+  -1062.36020646   284.18810592]
+ [ -128.79314518 -1656.79653651  -959.13854158 ...  -153.80708976
+   4320.63359033   -70.27701906]
+ [ -502.08217867   102.55605656 -1151.41080904 ...  -279.77822021
+    245.68647031   302.7290567 ]]
+y [[0. 0. 0. ... 0. 0. 0.]
+ [0. 1. 0. ... 0. 0. 0.]
+ [1. 0. 0. ... 0. 0. 0.]
+ ...
+ [1. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 1. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+cc [[nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]
+ [nan nan nan nan nan nan nan nan nan nan]]
+test 9: error=nan
+correct guesses: 7578
+correct in t_val: 54.128571428571426%
+Total running time: 0:00:28.055155
+Total iterations: 10
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:35:02.012957
+correct guesses: 4889
+correct in t_val: 34.92%
+correct guesses: 5756
+correct in t_val: 41.11%
+correct guesses: 6337
+correct in t_val: 45.26%
+correct guesses: 6429
+correct in t_val: 45.92%
+correct guesses: 6889
+correct in t_val: 49.21%
+correct guesses: 6880
+correct in t_val: 49.14%
+correct guesses: 7041
+correct in t_val: 50.29%
+correct guesses: 7172
+correct in t_val: 51.23%
+correct guesses: 7300
+correct in t_val: 52.14%
+correct guesses: 7405
+correct in t_val: 52.89%
+correct guesses: 7514
+correct in t_val: 53.67%
+correct guesses: 7586
+correct in t_val: 54.19%
+correct guesses: 7694
+correct in t_val: 54.96%
+correct guesses: 7738
+correct in t_val: 55.27%
+Total running time: 0:00:29.038389
+Total iterations: 14
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:36:09.965565
+correct guesses: 5368
+correct in t_val: 38.34%
+correct guesses: 5708
+correct in t_val: 40.77%
+correct guesses: 6189
+correct in t_val: 44.21%
+correct guesses: 6262
+correct in t_val: 44.73%
+correct guesses: 6469
+correct in t_val: 46.21%
+correct guesses: 6498
+correct in t_val: 46.41%
+correct guesses: 6623
+correct in t_val: 47.31%
+correct guesses: 6653
+correct in t_val: 47.52%
+correct guesses: 6776
+correct in t_val: 48.40%
+correct guesses: 6816
+correct in t_val: 48.69%
+correct guesses: 6904
+correct in t_val: 49.31%
+correct guesses: 6971
+correct in t_val: 49.79%
+correct guesses: 7045
+correct in t_val: 50.32%
+correct guesses: 7116
+correct in t_val: 50.83%
+correct guesses: 7224
+correct in t_val: 51.60%
+correct guesses: 7174
+correct in t_val: 51.24%
+correct guesses: 7627
+correct in t_val: 54.48%
+correct guesses: 7249
+correct in t_val: 51.78%
+correct guesses: 7772
+correct in t_val: 55.51%
+correct guesses: 7507
+correct in t_val: 53.62%
+correct guesses: 7794
+correct in t_val: 55.67%
+correct guesses: 7823
+correct in t_val: 55.88%
+correct guesses: 7896
+correct in t_val: 56.40%
+correct guesses: 7949
+correct in t_val: 56.78%
+correct guesses: 8040
+correct in t_val: 57.43%
+correct guesses: 8097
+correct in t_val: 57.84%
+correct guesses: 8189
+correct in t_val: 58.49%
+correct guesses: 8241
+correct in t_val: 58.86%
+correct guesses: 8315
+correct in t_val: 59.39%
+correct guesses: 8290
+correct in t_val: 59.21%
+correct guesses: 8464
+correct in t_val: 60.46%
+correct guesses: 8373
+correct in t_val: 59.81%
+correct guesses: 8563
+correct in t_val: 61.16%
+correct guesses: 8367
+correct in t_val: 59.76%
+correct guesses: 8675
+correct in t_val: 61.96%
+correct guesses: 8340
+correct in t_val: 59.57%
+correct guesses: 8988
+correct in t_val: 64.20%
+correct guesses: 8441
+correct in t_val: 60.29%
+correct guesses: 9166
+correct in t_val: 65.47%
+correct guesses: 8469
+correct in t_val: 60.49%
+correct guesses: 9308
+correct in t_val: 66.49%
+correct guesses: 8804
+correct in t_val: 62.89%
+correct guesses: 9365
+correct in t_val: 66.89%
+correct guesses: 9183
+correct in t_val: 65.59%
+correct guesses: 9278
+correct in t_val: 66.27%
+correct guesses: 9200
+correct in t_val: 65.71%
+correct guesses: 9236
+correct in t_val: 65.97%
+correct guesses: 9152
+correct in t_val: 65.37%
+correct guesses: 9175
+correct in t_val: 65.54%
+correct guesses: 9021
+correct in t_val: 64.44%
+Total running time: 0:00:34.833774
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:38:41.111185
+correct guesses: 4779
+correct in t_val: 34.14%
+correct guesses: 5939
+correct in t_val: 42.42%
+correct guesses: 6087
+correct in t_val: 43.48%
+correct guesses: 6664
+correct in t_val: 47.60%
+correct guesses: 6644
+correct in t_val: 47.46%
+correct guesses: 6834
+correct in t_val: 48.81%
+correct guesses: 6919
+correct in t_val: 49.42%
+correct guesses: 7047
+correct in t_val: 50.34%
+correct guesses: 7143
+correct in t_val: 51.02%
+correct guesses: 7254
+correct in t_val: 51.81%
+correct guesses: 7354
+correct in t_val: 52.53%
+correct guesses: 7467
+correct in t_val: 53.34%
+correct guesses: 7532
+correct in t_val: 53.80%
+correct guesses: 7652
+correct in t_val: 54.66%
+correct guesses: 7726
+correct in t_val: 55.19%
+correct guesses: 7791
+correct in t_val: 55.65%
+correct guesses: 7867
+correct in t_val: 56.19%
+correct guesses: 7951
+correct in t_val: 56.79%
+correct guesses: 8048
+correct in t_val: 57.49%
+correct guesses: 8116
+correct in t_val: 57.97%
+correct guesses: 8181
+correct in t_val: 58.44%
+correct guesses: 8268
+correct in t_val: 59.06%
+correct guesses: 8373
+correct in t_val: 59.81%
+correct guesses: 8334
+correct in t_val: 59.53%
+correct guesses: 8554
+correct in t_val: 61.10%
+correct guesses: 8262
+correct in t_val: 59.01%
+correct guesses: 8666
+correct in t_val: 61.90%
+correct guesses: 8713
+correct in t_val: 62.24%
+correct guesses: 8698
+correct in t_val: 62.13%
+correct guesses: 8759
+correct in t_val: 62.56%
+correct guesses: 8759
+correct in t_val: 62.56%
+correct guesses: 8832
+correct in t_val: 63.09%
+correct guesses: 8774
+correct in t_val: 62.67%
+correct guesses: 8917
+correct in t_val: 63.69%
+correct guesses: 8687
+correct in t_val: 62.05%
+correct guesses: 8971
+correct in t_val: 64.08%
+correct guesses: 8520
+correct in t_val: 60.86%
+correct guesses: 8959
+correct in t_val: 63.99%
+correct guesses: 8120
+correct in t_val: 58.00%
+correct guesses: 8855
+correct in t_val: 63.25%
+correct guesses: 7905
+correct in t_val: 56.46%
+correct guesses: 8657
+correct in t_val: 61.84%
+correct guesses: 8406
+correct in t_val: 60.04%
+correct guesses: 9271
+correct in t_val: 66.22%
+correct guesses: 8808
+correct in t_val: 62.91%
+correct guesses: 9435
+correct in t_val: 67.39%
+correct guesses: 9296
+correct in t_val: 66.40%
+correct guesses: 9349
+correct in t_val: 66.78%
+correct guesses: 9342
+correct in t_val: 66.73%
+correct guesses: 9323
+correct in t_val: 66.59%
+correct guesses: 9309
+correct in t_val: 66.49%
+correct guesses: 9304
+correct in t_val: 66.46%
+correct guesses: 9262
+correct in t_val: 66.16%
+correct guesses: 9223
+correct in t_val: 65.88%
+correct guesses: 9180
+correct in t_val: 65.57%
+correct guesses: 9133
+correct in t_val: 65.24%
+correct guesses: 9065
+correct in t_val: 64.75%
+correct guesses: 8977
+correct in t_val: 64.12%
+correct guesses: 8807
+correct in t_val: 62.91%
+correct guesses: 8825
+correct in t_val: 63.04%
+correct guesses: 8103
+correct in t_val: 57.88%
+correct guesses: 8792
+correct in t_val: 62.80%
+correct guesses: 7428
+correct in t_val: 53.06%
+correct guesses: 9026
+correct in t_val: 64.47%
+correct guesses: 8154
+correct in t_val: 58.24%
+correct guesses: 9310
+correct in t_val: 66.50%
+correct guesses: 9083
+correct in t_val: 64.88%
+correct guesses: 9462
+correct in t_val: 67.59%
+correct guesses: 9330
+correct in t_val: 66.64%
+correct guesses: 9396
+correct in t_val: 67.11%
+correct guesses: 9320
+correct in t_val: 66.57%
+correct guesses: 9381
+correct in t_val: 67.01%
+correct guesses: 9227
+correct in t_val: 65.91%
+correct guesses: 9323
+correct in t_val: 66.59%
+correct guesses: 9067
+correct in t_val: 64.76%
+correct guesses: 9296
+correct in t_val: 66.40%
+correct guesses: 8882
+correct in t_val: 63.44%
+correct guesses: 9440
+correct in t_val: 67.43%
+correct guesses: 8615
+correct in t_val: 61.54%
+correct guesses: 9482
+correct in t_val: 67.73%
+correct guesses: 8278
+correct in t_val: 59.13%
+correct guesses: 8629
+correct in t_val: 61.64%
+correct guesses: 7664
+correct in t_val: 54.74%
+correct guesses: 7626
+correct in t_val: 54.47%
+correct guesses: 7191
+correct in t_val: 51.36%
+correct guesses: 7214
+correct in t_val: 51.53%
+correct guesses: 7442
+correct in t_val: 53.16%
+correct guesses: 7622
+correct in t_val: 54.44%
+correct guesses: 7742
+correct in t_val: 55.30%
+correct guesses: 7845
+correct in t_val: 56.04%
+correct guesses: 7942
+correct in t_val: 56.73%
+correct guesses: 8012
+correct in t_val: 57.23%
+correct guesses: 8086
+correct in t_val: 57.76%
+correct guesses: 8139
+correct in t_val: 58.14%
+correct guesses: 8195
+correct in t_val: 58.54%
+correct guesses: 8258
+correct in t_val: 58.99%
+correct guesses: 8320
+correct in t_val: 59.43%
+correct guesses: 8356
+correct in t_val: 59.69%
+correct guesses: 8404
+correct in t_val: 60.03%
+correct guesses: 8422
+correct in t_val: 60.16%
+correct guesses: 8525
+correct in t_val: 60.89%
+correct guesses: 8488
+correct in t_val: 60.63%
+correct guesses: 8701
+correct in t_val: 62.15%
+correct guesses: 8489
+correct in t_val: 60.64%
+correct guesses: 9100
+correct in t_val: 65.00%
+correct guesses: 8265
+correct in t_val: 59.04%
+correct guesses: 9149
+correct in t_val: 65.35%
+correct guesses: 8471
+correct in t_val: 60.51%
+correct guesses: 8985
+correct in t_val: 64.18%
+correct guesses: 8854
+correct in t_val: 63.24%
+correct guesses: 8916
+correct in t_val: 63.69%
+correct guesses: 8954
+correct in t_val: 63.96%
+correct guesses: 8983
+correct in t_val: 64.16%
+correct guesses: 8980
+correct in t_val: 64.14%
+correct guesses: 9009
+correct in t_val: 64.35%
+correct guesses: 8954
+correct in t_val: 63.96%
+correct guesses: 9032
+correct in t_val: 64.51%
+correct guesses: 8906
+correct in t_val: 63.61%
+correct guesses: 9053
+correct in t_val: 64.66%
+correct guesses: 8774
+correct in t_val: 62.67%
+correct guesses: 9072
+correct in t_val: 64.80%
+correct guesses: 8647
+correct in t_val: 61.76%
+correct guesses: 9059
+correct in t_val: 64.71%
+correct guesses: 8579
+correct in t_val: 61.28%
+correct guesses: 9079
+correct in t_val: 64.85%
+correct guesses: 8584
+correct in t_val: 61.31%
+correct guesses: 9205
+correct in t_val: 65.75%
+correct guesses: 8622
+correct in t_val: 61.59%
+correct guesses: 9064
+correct in t_val: 64.74%
+correct guesses: 8636
+correct in t_val: 61.69%
+correct guesses: 9394
+correct in t_val: 67.10%
+correct guesses: 8741
+correct in t_val: 62.44%
+correct guesses: 9436
+correct in t_val: 67.40%
+correct guesses: 9225
+correct in t_val: 65.89%
+correct guesses: 9310
+correct in t_val: 66.50%
+correct guesses: 9256
+correct in t_val: 66.11%
+correct guesses: 9265
+correct in t_val: 66.18%
+correct guesses: 9197
+correct in t_val: 65.69%
+correct guesses: 9219
+correct in t_val: 65.85%
+correct guesses: 9097
+correct in t_val: 64.98%
+correct guesses: 9135
+correct in t_val: 65.25%
+correct guesses: 9019
+correct in t_val: 64.42%
+correct guesses: 9123
+correct in t_val: 65.16%
+correct guesses: 8893
+correct in t_val: 63.52%
+correct guesses: 9172
+correct in t_val: 65.51%
+correct guesses: 8672
+correct in t_val: 61.94%
+correct guesses: 9228
+correct in t_val: 65.91%
+correct guesses: 8490
+correct in t_val: 60.64%
+correct guesses: 8963
+correct in t_val: 64.02%
+correct guesses: 8194
+correct in t_val: 58.53%
+correct guesses: 7828
+correct in t_val: 55.91%
+correct guesses: 8535
+correct in t_val: 60.96%
+correct guesses: 8675
+correct in t_val: 61.96%
+correct guesses: 9369
+correct in t_val: 66.92%
+correct guesses: 9124
+correct in t_val: 65.17%
+correct guesses: 9353
+correct in t_val: 66.81%
+correct guesses: 9313
+correct in t_val: 66.52%
+correct guesses: 9327
+correct in t_val: 66.62%
+correct guesses: 9320
+correct in t_val: 66.57%
+correct guesses: 9317
+correct in t_val: 66.55%
+correct guesses: 9247
+correct in t_val: 66.05%
+correct guesses: 9242
+correct in t_val: 66.01%
+correct guesses: 9158
+correct in t_val: 65.41%
+correct guesses: 9137
+correct in t_val: 65.26%
+correct guesses: 9063
+correct in t_val: 64.74%
+correct guesses: 9016
+correct in t_val: 64.40%
+correct guesses: 8965
+correct in t_val: 64.04%
+correct guesses: 8668
+correct in t_val: 61.91%
+correct guesses: 8703
+correct in t_val: 62.16%
+correct guesses: 8141
+correct in t_val: 58.15%
+correct guesses: 8614
+correct in t_val: 61.53%
+correct guesses: 8618
+correct in t_val: 61.56%
+correct guesses: 8981
+correct in t_val: 64.15%
+correct guesses: 8987
+correct in t_val: 64.19%
+correct guesses: 9130
+correct in t_val: 65.21%
+correct guesses: 9006
+correct in t_val: 64.33%
+correct guesses: 9052
+correct in t_val: 64.66%
+correct guesses: 9043
+correct in t_val: 64.59%
+correct guesses: 8967
+correct in t_val: 64.05%
+correct guesses: 9099
+correct in t_val: 64.99%
+correct guesses: 9055
+correct in t_val: 64.68%
+correct guesses: 9434
+correct in t_val: 67.39%
+correct guesses: 9129
+correct in t_val: 65.21%
+correct guesses: 9426
+correct in t_val: 67.33%
+correct guesses: 9178
+correct in t_val: 65.56%
+correct guesses: 9323
+correct in t_val: 66.59%
+correct guesses: 9110
+correct in t_val: 65.07%
+correct guesses: 9301
+correct in t_val: 66.44%
+correct guesses: 8941
+correct in t_val: 63.86%
+correct guesses: 9314
+correct in t_val: 66.53%
+correct guesses: 8748
+correct in t_val: 62.49%
+correct guesses: 9306
+correct in t_val: 66.47%
+correct guesses: 8414
+correct in t_val: 60.10%
+correct guesses: 8990
+correct in t_val: 64.21%
+correct guesses: 7923
+correct in t_val: 56.59%
+correct guesses: 8442
+correct in t_val: 60.30%
+correct guesses: 8279
+correct in t_val: 59.14%
+correct guesses: 9071
+correct in t_val: 64.79%
+correct guesses: 9025
+correct in t_val: 64.46%
+correct guesses: 9352
+correct in t_val: 66.80%
+correct guesses: 8916
+correct in t_val: 63.69%
+correct guesses: 9450
+correct in t_val: 67.50%
+correct guesses: 8703
+correct in t_val: 62.16%
+correct guesses: 9410
+correct in t_val: 67.21%
+correct guesses: 8819
+correct in t_val: 62.99%
+correct guesses: 9476
+correct in t_val: 67.69%
+correct guesses: 9227
+correct in t_val: 65.91%
+correct guesses: 9342
+correct in t_val: 66.73%
+correct guesses: 9310
+correct in t_val: 66.50%
+correct guesses: 9305
+correct in t_val: 66.46%
+correct guesses: 9207
+correct in t_val: 65.76%
+correct guesses: 9216
+correct in t_val: 65.83%
+correct guesses: 9089
+correct in t_val: 64.92%
+correct guesses: 9191
+correct in t_val: 65.65%
+correct guesses: 9003
+correct in t_val: 64.31%
+correct guesses: 9137
+correct in t_val: 65.26%
+correct guesses: 8925
+correct in t_val: 63.75%
+correct guesses: 9080
+correct in t_val: 64.86%
+correct guesses: 8736
+correct in t_val: 62.40%
+correct guesses: 9099
+correct in t_val: 64.99%
+correct guesses: 8571
+correct in t_val: 61.22%
+correct guesses: 8844
+correct in t_val: 63.17%
+correct guesses: 8295
+correct in t_val: 59.25%
+correct guesses: 8173
+correct in t_val: 58.38%
+correct guesses: 8329
+correct in t_val: 59.49%
+correct guesses: 8248
+correct in t_val: 58.91%
+correct guesses: 8994
+correct in t_val: 64.24%
+correct guesses: 8512
+correct in t_val: 60.80%
+correct guesses: 9372
+correct in t_val: 66.94%
+correct guesses: 8876
+correct in t_val: 63.40%
+correct guesses: 9377
+correct in t_val: 66.98%
+correct guesses: 9185
+correct in t_val: 65.61%
+correct guesses: 9260
+correct in t_val: 66.14%
+correct guesses: 9185
+correct in t_val: 65.61%
+correct guesses: 9201
+correct in t_val: 65.72%
+correct guesses: 9112
+correct in t_val: 65.09%
+correct guesses: 9129
+correct in t_val: 65.21%
+correct guesses: 8993
+correct in t_val: 64.24%
+correct guesses: 9120
+correct in t_val: 65.14%
+correct guesses: 8844
+correct in t_val: 63.17%
+correct guesses: 9174
+correct in t_val: 65.53%
+correct guesses: 8569
+correct in t_val: 61.21%
+correct guesses: 9177
+correct in t_val: 65.55%
+correct guesses: 8172
+correct in t_val: 58.37%
+correct guesses: 8446
+correct in t_val: 60.33%
+correct guesses: 7793
+correct in t_val: 55.66%
+correct guesses: 8105
+correct in t_val: 57.89%
+correct guesses: 8549
+correct in t_val: 61.06%
+correct guesses: 8865
+correct in t_val: 63.32%
+correct guesses: 8936
+correct in t_val: 63.83%
+correct guesses: 9088
+correct in t_val: 64.91%
+correct guesses: 9102
+correct in t_val: 65.01%
+correct guesses: 9163
+correct in t_val: 65.45%
+correct guesses: 9121
+correct in t_val: 65.15%
+correct guesses: 9150
+correct in t_val: 65.36%
+correct guesses: 9050
+correct in t_val: 64.64%
+correct guesses: 9144
+correct in t_val: 65.31%
+correct guesses: 8937
+correct in t_val: 63.84%
+correct guesses: 9116
+correct in t_val: 65.11%
+correct guesses: 8714
+correct in t_val: 62.24%
+correct guesses: 9069
+correct in t_val: 64.78%
+correct guesses: 8468
+correct in t_val: 60.49%
+correct guesses: 9113
+correct in t_val: 65.09%
+correct guesses: 8362
+correct in t_val: 59.73%
+correct guesses: 9231
+correct in t_val: 65.94%
+correct guesses: 8865
+correct in t_val: 63.32%
+correct guesses: 9172
+correct in t_val: 65.51%
+correct guesses: 9108
+correct in t_val: 65.06%
+correct guesses: 9155
+correct in t_val: 65.39%
+correct guesses: 9138
+correct in t_val: 65.27%
+correct guesses: 9130
+correct in t_val: 65.21%
+correct guesses: 9103
+correct in t_val: 65.02%
+correct guesses: 9083
+correct in t_val: 64.88%
+correct guesses: 9032
+correct in t_val: 64.51%
+correct guesses: 9067
+correct in t_val: 64.76%
+correct guesses: 8840
+correct in t_val: 63.14%
+correct guesses: 9102
+correct in t_val: 65.01%
+correct guesses: 8597
+correct in t_val: 61.41%
+correct guesses: 8985
+correct in t_val: 64.18%
+correct guesses: 8249
+correct in t_val: 58.92%
+correct guesses: 8735
+correct in t_val: 62.39%
+correct guesses: 8109
+correct in t_val: 57.92%
+correct guesses: 8784
+correct in t_val: 62.74%
+correct guesses: 8653
+correct in t_val: 61.81%
+correct guesses: 9019
+correct in t_val: 64.42%
+correct guesses: 8859
+correct in t_val: 63.28%
+correct guesses: 9073
+correct in t_val: 64.81%
+correct guesses: 8744
+correct in t_val: 62.46%
+correct guesses: 9079
+correct in t_val: 64.85%
+correct guesses: 8488
+correct in t_val: 60.63%
+correct guesses: 9147
+correct in t_val: 65.34%
+correct guesses: 8424
+correct in t_val: 60.17%
+correct guesses: 8899
+correct in t_val: 63.56%
+correct guesses: 8598
+correct in t_val: 61.41%
+correct guesses: 9233
+correct in t_val: 65.95%
+correct guesses: 9057
+correct in t_val: 64.69%
+correct guesses: 9115
+correct in t_val: 65.11%
+correct guesses: 9086
+correct in t_val: 64.90%
+correct guesses: 9118
+correct in t_val: 65.13%
+correct guesses: 9074
+correct in t_val: 64.81%
+correct guesses: 9086
+correct in t_val: 64.90%
+correct guesses: 8999
+correct in t_val: 64.28%
+correct guesses: 9085
+correct in t_val: 64.89%
+correct guesses: 8891
+correct in t_val: 63.51%
+correct guesses: 9064
+correct in t_val: 64.74%
+correct guesses: 8703
+correct in t_val: 62.16%
+correct guesses: 9160
+correct in t_val: 65.43%
+correct guesses: 8483
+correct in t_val: 60.59%
+correct guesses: 9054
+correct in t_val: 64.67%
+correct guesses: 8186
+correct in t_val: 58.47%
+correct guesses: 8427
+correct in t_val: 60.19%
+correct guesses: 8007
+correct in t_val: 57.19%
+correct guesses: 8000
+correct in t_val: 57.14%
+correct guesses: 8562
+correct in t_val: 61.16%
+correct guesses: 8467
+correct in t_val: 60.48%
+correct guesses: 9011
+correct in t_val: 64.36%
+correct guesses: 8628
+correct in t_val: 61.63%
+correct guesses: 9152
+correct in t_val: 65.37%
+correct guesses: 8847
+correct in t_val: 63.19%
+correct guesses: 9097
+correct in t_val: 64.98%
+correct guesses: 9011
+correct in t_val: 64.36%
+correct guesses: 9083
+correct in t_val: 64.88%
+correct guesses: 9016
+correct in t_val: 64.40%
+correct guesses: 9049
+correct in t_val: 64.64%
+correct guesses: 8984
+correct in t_val: 64.17%
+correct guesses: 9002
+correct in t_val: 64.30%
+correct guesses: 8898
+correct in t_val: 63.56%
+correct guesses: 8965
+correct in t_val: 64.04%
+correct guesses: 8821
+correct in t_val: 63.01%
+correct guesses: 8869
+correct in t_val: 63.35%
+correct guesses: 8718
+correct in t_val: 62.27%
+correct guesses: 8599
+correct in t_val: 61.42%
+correct guesses: 8429
+correct in t_val: 60.21%
+correct guesses: 8189
+correct in t_val: 58.49%
+correct guesses: 8318
+correct in t_val: 59.41%
+correct guesses: 8577
+correct in t_val: 61.26%
+correct guesses: 8440
+correct in t_val: 60.29%
+correct guesses: 8955
+correct in t_val: 63.96%
+correct guesses: 8502
+correct in t_val: 60.73%
+correct guesses: 9121
+correct in t_val: 65.15%
+correct guesses: 8447
+correct in t_val: 60.34%
+correct guesses: 9177
+correct in t_val: 65.55%
+correct guesses: 8748
+correct in t_val: 62.49%
+correct guesses: 9150
+correct in t_val: 65.36%
+correct guesses: 8988
+correct in t_val: 64.20%
+correct guesses: 9069
+correct in t_val: 64.78%
+correct guesses: 8987
+correct in t_val: 64.19%
+correct guesses: 9033
+correct in t_val: 64.52%
+correct guesses: 8963
+correct in t_val: 64.02%
+correct guesses: 9036
+correct in t_val: 64.54%
+correct guesses: 8825
+correct in t_val: 63.04%
+correct guesses: 9048
+correct in t_val: 64.63%
+correct guesses: 8651
+correct in t_val: 61.79%
+correct guesses: 9093
+correct in t_val: 64.95%
+correct guesses: 8447
+correct in t_val: 60.34%
+correct guesses: 8915
+correct in t_val: 63.68%
+correct guesses: 8214
+correct in t_val: 58.67%
+correct guesses: 8380
+correct in t_val: 59.86%
+correct guesses: 8126
+correct in t_val: 58.04%
+correct guesses: 8414
+correct in t_val: 60.10%
+correct guesses: 8787
+correct in t_val: 62.76%
+correct guesses: 8728
+correct in t_val: 62.34%
+correct guesses: 9094
+correct in t_val: 64.96%
+correct guesses: 8686
+correct in t_val: 62.04%
+correct guesses: 9090
+correct in t_val: 64.93%
+correct guesses: 8559
+correct in t_val: 61.14%
+correct guesses: 9194
+correct in t_val: 65.67%
+correct guesses: 8640
+correct in t_val: 61.71%
+correct guesses: 9189
+correct in t_val: 65.64%
+correct guesses: 8788
+correct in t_val: 62.77%
+correct guesses: 9192
+correct in t_val: 65.66%
+correct guesses: 8940
+correct in t_val: 63.86%
+correct guesses: 9104
+correct in t_val: 65.03%
+correct guesses: 8944
+correct in t_val: 63.89%
+correct guesses: 9023
+correct in t_val: 64.45%
+correct guesses: 8889
+correct in t_val: 63.49%
+correct guesses: 8961
+correct in t_val: 64.01%
+correct guesses: 8798
+correct in t_val: 62.84%
+correct guesses: 8896
+correct in t_val: 63.54%
+correct guesses: 8689
+correct in t_val: 62.06%
+correct guesses: 8845
+correct in t_val: 63.18%
+correct guesses: 8301
+correct in t_val: 59.29%
+correct guesses: 8643
+correct in t_val: 61.74%
+correct guesses: 7794
+correct in t_val: 55.67%
+correct guesses: 8492
+correct in t_val: 60.66%
+correct guesses: 8204
+correct in t_val: 58.60%
+correct guesses: 8948
+correct in t_val: 63.91%
+correct guesses: 8517
+correct in t_val: 60.84%
+correct guesses: 9183
+correct in t_val: 65.59%
+correct guesses: 8396
+correct in t_val: 59.97%
+correct guesses: 9176
+correct in t_val: 65.54%
+correct guesses: 8323
+correct in t_val: 59.45%
+correct guesses: 9046
+correct in t_val: 64.61%
+correct guesses: 8695
+correct in t_val: 62.11%
+correct guesses: 9077
+correct in t_val: 64.84%
+correct guesses: 8986
+correct in t_val: 64.19%
+correct guesses: 9011
+correct in t_val: 64.36%
+correct guesses: 8968
+correct in t_val: 64.06%
+correct guesses: 8969
+correct in t_val: 64.06%
+correct guesses: 8943
+correct in t_val: 63.88%
+correct guesses: 8966
+correct in t_val: 64.04%
+correct guesses: 8843
+correct in t_val: 63.16%
+correct guesses: 8971
+correct in t_val: 64.08%
+correct guesses: 8730
+correct in t_val: 62.36%
+correct guesses: 9002
+correct in t_val: 64.30%
+correct guesses: 8505
+correct in t_val: 60.75%
+correct guesses: 9043
+correct in t_val: 64.59%
+correct guesses: 8279
+correct in t_val: 59.14%
+correct guesses: 8810
+correct in t_val: 62.93%
+correct guesses: 7884
+correct in t_val: 56.31%
+correct guesses: 7959
+correct in t_val: 56.85%
+correct guesses: 7954
+correct in t_val: 56.81%
+correct guesses: 7826
+correct in t_val: 55.90%
+correct guesses: 8350
+correct in t_val: 59.64%
+correct guesses: 8519
+correct in t_val: 60.85%
+correct guesses: 8587
+correct in t_val: 61.34%
+correct guesses: 8664
+correct in t_val: 61.89%
+correct guesses: 8694
+correct in t_val: 62.10%
+correct guesses: 8761
+correct in t_val: 62.58%
+correct guesses: 8774
+correct in t_val: 62.67%
+correct guesses: 8800
+correct in t_val: 62.86%
+correct guesses: 8801
+correct in t_val: 62.86%
+correct guesses: 8821
+correct in t_val: 63.01%
+correct guesses: 8777
+correct in t_val: 62.69%
+correct guesses: 8838
+correct in t_val: 63.13%
+correct guesses: 8722
+correct in t_val: 62.30%
+correct guesses: 8896
+correct in t_val: 63.54%
+correct guesses: 8562
+correct in t_val: 61.16%
+correct guesses: 8969
+correct in t_val: 64.06%
+correct guesses: 8237
+correct in t_val: 58.84%
+correct guesses: 8957
+correct in t_val: 63.98%
+correct guesses: 7910
+correct in t_val: 56.50%
+correct guesses: 8660
+correct in t_val: 61.86%
+correct guesses: 8424
+correct in t_val: 60.17%
+correct guesses: 8876
+correct in t_val: 63.40%
+correct guesses: 8859
+correct in t_val: 63.28%
+correct guesses: 8913
+correct in t_val: 63.66%
+correct guesses: 8953
+correct in t_val: 63.95%
+correct guesses: 8929
+correct in t_val: 63.78%
+correct guesses: 8954
+correct in t_val: 63.96%
+correct guesses: 8924
+correct in t_val: 63.74%
+correct guesses: 8920
+correct in t_val: 63.71%
+correct guesses: 8894
+correct in t_val: 63.53%
+correct guesses: 8893
+correct in t_val: 63.52%
+correct guesses: 8877
+correct in t_val: 63.41%
+correct guesses: 8816
+correct in t_val: 62.97%
+correct guesses: 8876
+correct in t_val: 63.40%
+correct guesses: 8641
+correct in t_val: 61.72%
+correct guesses: 8877
+correct in t_val: 63.41%
+correct guesses: 8386
+correct in t_val: 59.90%
+correct guesses: 8758
+correct in t_val: 62.56%
+correct guesses: 8020
+correct in t_val: 57.29%
+correct guesses: 8433
+correct in t_val: 60.24%
+correct guesses: 7856
+correct in t_val: 56.11%
+correct guesses: 8701
+correct in t_val: 62.15%
+correct guesses: 8358
+correct in t_val: 59.70%
+correct guesses: 8975
+correct in t_val: 64.11%
+correct guesses: 8366
+correct in t_val: 59.76%
+correct guesses: 8991
+correct in t_val: 64.22%
+correct guesses: 8202
+correct in t_val: 58.59%
+correct guesses: 8902
+correct in t_val: 63.59%
+correct guesses: 8589
+correct in t_val: 61.35%
+correct guesses: 8913
+correct in t_val: 63.66%
+correct guesses: 8851
+correct in t_val: 63.22%
+correct guesses: 8903
+correct in t_val: 63.59%
+correct guesses: 8872
+correct in t_val: 63.37%
+correct guesses: 8904
+correct in t_val: 63.60%
+correct guesses: 8823
+correct in t_val: 63.02%
+correct guesses: 8886
+correct in t_val: 63.47%
+correct guesses: 8846
+correct in t_val: 63.19%
+correct guesses: 8870
+correct in t_val: 63.36%
+correct guesses: 8785
+correct in t_val: 62.75%
+correct guesses: 8842
+correct in t_val: 63.16%
+correct guesses: 8735
+correct in t_val: 62.39%
+correct guesses: 8810
+correct in t_val: 62.93%
+correct guesses: 8626
+correct in t_val: 61.61%
+correct guesses: 8777
+correct in t_val: 62.69%
+correct guesses: 8432
+correct in t_val: 60.23%
+correct guesses: 8672
+correct in t_val: 61.94%
+correct guesses: 7971
+correct in t_val: 56.94%
+correct guesses: 8424
+correct in t_val: 60.17%
+correct guesses: 7784
+correct in t_val: 55.60%
+correct guesses: 8464
+correct in t_val: 60.46%
+correct guesses: 8285
+correct in t_val: 59.18%
+correct guesses: 8884
+correct in t_val: 63.46%
+correct guesses: 8519
+correct in t_val: 60.85%
+correct guesses: 8976
+correct in t_val: 64.11%
+correct guesses: 8447
+correct in t_val: 60.34%
+correct guesses: 9043
+correct in t_val: 64.59%
+correct guesses: 8239
+correct in t_val: 58.85%
+correct guesses: 9049
+correct in t_val: 64.64%
+correct guesses: 8158
+correct in t_val: 58.27%
+correct guesses: 8874
+correct in t_val: 63.39%
+correct guesses: 8628
+correct in t_val: 61.63%
+correct guesses: 8948
+correct in t_val: 63.91%
+correct guesses: 8873
+correct in t_val: 63.38%
+correct guesses: 8921
+correct in t_val: 63.72%
+correct guesses: 8848
+correct in t_val: 63.20%
+correct guesses: 8913
+correct in t_val: 63.66%
+correct guesses: 8816
+correct in t_val: 62.97%
+Total running time: 0:01:47.236823
+Total iterations: 500
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:44:37.573623
+correct guesses: 2141
+correct in t_val: 15.29%
+correct guesses: 1966
+correct in t_val: 14.04%
+correct guesses: 1877
+correct in t_val: 13.41%
+correct guesses: 1780
+correct in t_val: 12.71%
+correct guesses: 1712
+correct in t_val: 12.23%
+correct guesses: 1652
+correct in t_val: 11.80%
+correct guesses: 1614
+correct in t_val: 11.53%
+correct guesses: 1588
+correct in t_val: 11.34%
+correct guesses: 1556
+correct in t_val: 11.11%
+correct guesses: 1530
+correct in t_val: 10.93%
+correct guesses: 1513
+correct in t_val: 10.81%
+correct guesses: 1499
+correct in t_val: 10.71%
+correct guesses: 1490
+correct in t_val: 10.64%
+correct guesses: 1485
+correct in t_val: 10.61%
+correct guesses: 1480
+correct in t_val: 10.57%
+correct guesses: 1480
+correct in t_val: 10.57%
+correct guesses: 1486
+correct in t_val: 10.61%
+correct guesses: 1479
+correct in t_val: 10.56%
+correct guesses: 1477
+correct in t_val: 10.55%
+correct guesses: 1473
+correct in t_val: 10.52%
+correct guesses: 1475
+correct in t_val: 10.54%
+correct guesses: 1472
+correct in t_val: 10.51%
+correct guesses: 1473
+correct in t_val: 10.52%
+correct guesses: 1472
+correct in t_val: 10.51%
+correct guesses: 1469
+correct in t_val: 10.49%
+correct guesses: 1470
+correct in t_val: 10.50%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1467
+correct in t_val: 10.48%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1466
+correct in t_val: 10.47%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1465
+correct in t_val: 10.46%
+correct guesses: 1465
+correct in t_val: 10.46%
+correct guesses: 1466
+correct in t_val: 10.47%
+correct guesses: 1471
+correct in t_val: 10.51%
+correct guesses: 1469
+correct in t_val: 10.49%
+correct guesses: 1506
+correct in t_val: 10.76%
+correct guesses: 1477
+correct in t_val: 10.55%
+correct guesses: 1479
+correct in t_val: 10.56%
+correct guesses: 1473
+correct in t_val: 10.52%
+correct guesses: 1473
+correct in t_val: 10.52%
+correct guesses: 1472
+correct in t_val: 10.51%
+correct guesses: 1471
+correct in t_val: 10.51%
+correct guesses: 1469
+correct in t_val: 10.49%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1467
+correct in t_val: 10.48%
+correct guesses: 1468
+correct in t_val: 10.49%
+correct guesses: 1465
+correct in t_val: 10.46%
+correct guesses: 1468
+correct in t_val: 10.49%
+Total running time: 0:00:33.632939
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:45:54.523992
+correct guesses: 4777
+correct in t_val: 34.12%
+correct guesses: 4986
+correct in t_val: 35.61%
+correct guesses: 5311
+correct in t_val: 37.94%
+correct guesses: 5313
+correct in t_val: 37.95%
+correct guesses: 5456
+correct in t_val: 38.97%
+correct guesses: 5486
+correct in t_val: 39.19%
+correct guesses: 5534
+correct in t_val: 39.53%
+correct guesses: 5555
+correct in t_val: 39.68%
+correct guesses: 5565
+correct in t_val: 39.75%
+correct guesses: 5575
+correct in t_val: 39.82%
+correct guesses: 5589
+correct in t_val: 39.92%
+correct guesses: 5604
+correct in t_val: 40.03%
+correct guesses: 5615
+correct in t_val: 40.11%
+correct guesses: 5632
+correct in t_val: 40.23%
+correct guesses: 5691
+correct in t_val: 40.65%
+correct guesses: 5685
+correct in t_val: 40.61%
+correct guesses: 5789
+correct in t_val: 41.35%
+correct guesses: 5714
+correct in t_val: 40.81%
+correct guesses: 6089
+correct in t_val: 43.49%
+correct guesses: 5603
+correct in t_val: 40.02%
+correct guesses: 5965
+correct in t_val: 42.61%
+correct guesses: 5694
+correct in t_val: 40.67%
+correct guesses: 6313
+correct in t_val: 45.09%
+correct guesses: 5879
+correct in t_val: 41.99%
+correct guesses: 6293
+correct in t_val: 44.95%
+correct guesses: 6005
+correct in t_val: 42.89%
+correct guesses: 6152
+correct in t_val: 43.94%
+correct guesses: 6102
+correct in t_val: 43.59%
+correct guesses: 6149
+correct in t_val: 43.92%
+correct guesses: 6251
+correct in t_val: 44.65%
+correct guesses: 6215
+correct in t_val: 44.39%
+correct guesses: 6369
+correct in t_val: 45.49%
+correct guesses: 6306
+correct in t_val: 45.04%
+correct guesses: 6501
+correct in t_val: 46.44%
+correct guesses: 6205
+correct in t_val: 44.32%
+correct guesses: 6366
+correct in t_val: 45.47%
+correct guesses: 5909
+correct in t_val: 42.21%
+correct guesses: 6273
+correct in t_val: 44.81%
+correct guesses: 6284
+correct in t_val: 44.89%
+correct guesses: 6515
+correct in t_val: 46.54%
+correct guesses: 6587
+correct in t_val: 47.05%
+correct guesses: 6590
+correct in t_val: 47.07%
+correct guesses: 6822
+correct in t_val: 48.73%
+correct guesses: 6559
+correct in t_val: 46.85%
+correct guesses: 6908
+correct in t_val: 49.34%
+correct guesses: 6089
+correct in t_val: 43.49%
+correct guesses: 6506
+correct in t_val: 46.47%
+correct guesses: 6229
+correct in t_val: 44.49%
+correct guesses: 6492
+correct in t_val: 46.37%
+correct guesses: 6441
+correct in t_val: 46.01%
+Total running time: 0:00:34.048962
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:46:50.915218
+correct guesses: 4269
+correct in t_val: 30.49%
+correct guesses: 4800
+correct in t_val: 34.29%
+correct guesses: 5159
+correct in t_val: 36.85%
+correct guesses: 5245
+correct in t_val: 37.46%
+correct guesses: 5436
+correct in t_val: 38.83%
+correct guesses: 5459
+correct in t_val: 38.99%
+correct guesses: 5600
+correct in t_val: 40.00%
+correct guesses: 5590
+correct in t_val: 39.93%
+correct guesses: 5661
+correct in t_val: 40.44%
+correct guesses: 5713
+correct in t_val: 40.81%
+correct guesses: 5770
+correct in t_val: 41.21%
+correct guesses: 5824
+correct in t_val: 41.60%
+correct guesses: 5865
+correct in t_val: 41.89%
+correct guesses: 5902
+correct in t_val: 42.16%
+correct guesses: 5957
+correct in t_val: 42.55%
+correct guesses: 5994
+correct in t_val: 42.81%
+correct guesses: 6062
+correct in t_val: 43.30%
+correct guesses: 6086
+correct in t_val: 43.47%
+correct guesses: 6183
+correct in t_val: 44.16%
+correct guesses: 6195
+correct in t_val: 44.25%
+correct guesses: 6281
+correct in t_val: 44.86%
+correct guesses: 6315
+correct in t_val: 45.11%
+correct guesses: 6405
+correct in t_val: 45.75%
+correct guesses: 6421
+correct in t_val: 45.86%
+correct guesses: 6605
+correct in t_val: 47.18%
+correct guesses: 6528
+correct in t_val: 46.63%
+correct guesses: 6912
+correct in t_val: 49.37%
+correct guesses: 6574
+correct in t_val: 46.96%
+correct guesses: 6655
+correct in t_val: 47.54%
+correct guesses: 6619
+correct in t_val: 47.28%
+correct guesses: 6832
+correct in t_val: 48.80%
+correct guesses: 6829
+correct in t_val: 48.78%
+correct guesses: 6838
+correct in t_val: 48.84%
+correct guesses: 6943
+correct in t_val: 49.59%
+correct guesses: 7000
+correct in t_val: 50.00%
+correct guesses: 7100
+correct in t_val: 50.71%
+correct guesses: 7136
+correct in t_val: 50.97%
+correct guesses: 7190
+correct in t_val: 51.36%
+correct guesses: 7199
+correct in t_val: 51.42%
+correct guesses: 7293
+correct in t_val: 52.09%
+correct guesses: 7031
+correct in t_val: 50.22%
+correct guesses: 7127
+correct in t_val: 50.91%
+correct guesses: 6513
+correct in t_val: 46.52%
+correct guesses: 7172
+correct in t_val: 51.23%
+correct guesses: 7566
+correct in t_val: 54.04%
+correct guesses: 7061
+correct in t_val: 50.44%
+correct guesses: 7655
+correct in t_val: 54.68%
+correct guesses: 7126
+correct in t_val: 50.90%
+correct guesses: 7794
+correct in t_val: 55.67%
+correct guesses: 7310
+correct in t_val: 52.21%
+Total running time: 0:00:33.911421
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:48:07.293109
+correct guesses: 5096
+correct in t_val: 36.40%
+correct guesses: 6287
+correct in t_val: 44.91%
+correct guesses: 7285
+correct in t_val: 52.04%
+correct guesses: 6956
+correct in t_val: 49.69%
+correct guesses: 7615
+correct in t_val: 54.39%
+correct guesses: 7396
+correct in t_val: 52.83%
+correct guesses: 7619
+correct in t_val: 54.42%
+correct guesses: 7633
+correct in t_val: 54.52%
+correct guesses: 7767
+correct in t_val: 55.48%
+correct guesses: 7871
+correct in t_val: 56.22%
+correct guesses: 7985
+correct in t_val: 57.04%
+correct guesses: 8091
+correct in t_val: 57.79%
+correct guesses: 8174
+correct in t_val: 58.39%
+correct guesses: 8277
+correct in t_val: 59.12%
+correct guesses: 8358
+correct in t_val: 59.70%
+correct guesses: 8456
+correct in t_val: 60.40%
+correct guesses: 8525
+correct in t_val: 60.89%
+correct guesses: 8607
+correct in t_val: 61.48%
+correct guesses: 8613
+correct in t_val: 61.52%
+correct guesses: 8678
+correct in t_val: 61.99%
+correct guesses: 8660
+correct in t_val: 61.86%
+correct guesses: 8828
+correct in t_val: 63.06%
+correct guesses: 8602
+correct in t_val: 61.44%
+correct guesses: 9055
+correct in t_val: 64.68%
+correct guesses: 8510
+correct in t_val: 60.79%
+correct guesses: 9508
+correct in t_val: 67.91%
+correct guesses: 8985
+correct in t_val: 64.18%
+correct guesses: 9412
+correct in t_val: 67.23%
+correct guesses: 9247
+correct in t_val: 66.05%
+correct guesses: 9281
+correct in t_val: 66.29%
+correct guesses: 9274
+correct in t_val: 66.24%
+correct guesses: 9114
+correct in t_val: 65.10%
+correct guesses: 9311
+correct in t_val: 66.51%
+correct guesses: 8911
+correct in t_val: 63.65%
+correct guesses: 9261
+correct in t_val: 66.15%
+correct guesses: 8698
+correct in t_val: 62.13%
+correct guesses: 9310
+correct in t_val: 66.50%
+correct guesses: 8423
+correct in t_val: 60.16%
+correct guesses: 9356
+correct in t_val: 66.83%
+correct guesses: 8222
+correct in t_val: 58.73%
+correct guesses: 9451
+correct in t_val: 67.51%
+correct guesses: 8211
+correct in t_val: 58.65%
+correct guesses: 9473
+correct in t_val: 67.66%
+correct guesses: 8254
+correct in t_val: 58.96%
+correct guesses: 8839
+correct in t_val: 63.14%
+correct guesses: 8334
+correct in t_val: 59.53%
+correct guesses: 10097
+correct in t_val: 72.12%
+correct guesses: 9203
+correct in t_val: 65.74%
+correct guesses: 9798
+correct in t_val: 69.99%
+correct guesses: 9413
+correct in t_val: 67.24%
+Total running time: 0:00:33.768065
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:49:08.775502
+correct guesses: 6306
+correct in t_val: 45.04%
+correct guesses: 8718
+correct in t_val: 62.27%
+correct guesses: 8953
+correct in t_val: 63.95%
+correct guesses: 9451
+correct in t_val: 67.51%
+correct guesses: 9389
+correct in t_val: 67.06%
+correct guesses: 9696
+correct in t_val: 69.26%
+correct guesses: 9588
+correct in t_val: 68.49%
+correct guesses: 9711
+correct in t_val: 69.36%
+correct guesses: 9572
+correct in t_val: 68.37%
+correct guesses: 9560
+correct in t_val: 68.29%
+correct guesses: 9402
+correct in t_val: 67.16%
+correct guesses: 9310
+correct in t_val: 66.50%
+correct guesses: 9036
+correct in t_val: 64.54%
+correct guesses: 8992
+correct in t_val: 64.23%
+correct guesses: 8620
+correct in t_val: 61.57%
+correct guesses: 8736
+correct in t_val: 62.40%
+correct guesses: 8266
+correct in t_val: 59.04%
+correct guesses: 8310
+correct in t_val: 59.36%
+correct guesses: 8130
+correct in t_val: 58.07%
+correct guesses: 9178
+correct in t_val: 65.56%
+correct guesses: 8879
+correct in t_val: 63.42%
+correct guesses: 8881
+correct in t_val: 63.44%
+correct guesses: 8677
+correct in t_val: 61.98%
+correct guesses: 8503
+correct in t_val: 60.74%
+correct guesses: 8362
+correct in t_val: 59.73%
+correct guesses: 8181
+correct in t_val: 58.44%
+correct guesses: 8014
+correct in t_val: 57.24%
+correct guesses: 7798
+correct in t_val: 55.70%
+correct guesses: 7661
+correct in t_val: 54.72%
+correct guesses: 7423
+correct in t_val: 53.02%
+correct guesses: 7333
+correct in t_val: 52.38%
+correct guesses: 7051
+correct in t_val: 50.36%
+correct guesses: 7146
+correct in t_val: 51.04%
+correct guesses: 6876
+correct in t_val: 49.11%
+correct guesses: 7221
+correct in t_val: 51.58%
+correct guesses: 6816
+correct in t_val: 48.69%
+correct guesses: 7282
+correct in t_val: 52.01%
+correct guesses: 6797
+correct in t_val: 48.55%
+correct guesses: 6887
+correct in t_val: 49.19%
+correct guesses: 6582
+correct in t_val: 47.01%
+correct guesses: 6667
+correct in t_val: 47.62%
+correct guesses: 6905
+correct in t_val: 49.32%
+correct guesses: 7701
+correct in t_val: 55.01%
+correct guesses: 7402
+correct in t_val: 52.87%
+correct guesses: 7471
+correct in t_val: 53.36%
+correct guesses: 7506
+correct in t_val: 53.61%
+correct guesses: 7715
+correct in t_val: 55.11%
+correct guesses: 7412
+correct in t_val: 52.94%
+correct guesses: 7261
+correct in t_val: 51.86%
+correct guesses: 6981
+correct in t_val: 49.86%
+Total running time: 0:00:34.138349
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 10:50:15.960473
+correct guesses: 4669
+correct in t_val: 33.35%
+correct guesses: 5552
+correct in t_val: 39.66%
+correct guesses: 5833
+correct in t_val: 41.66%
+correct guesses: 6467
+correct in t_val: 46.19%
+correct guesses: 6472
+correct in t_val: 46.23%
+correct guesses: 6641
+correct in t_val: 47.44%
+correct guesses: 6813
+correct in t_val: 48.66%
+correct guesses: 6978
+correct in t_val: 49.84%
+correct guesses: 7131
+correct in t_val: 50.94%
+correct guesses: 7280
+correct in t_val: 52.00%
+correct guesses: 7429
+correct in t_val: 53.06%
+correct guesses: 7560
+correct in t_val: 54.00%
+correct guesses: 7683
+correct in t_val: 54.88%
+correct guesses: 7804
+correct in t_val: 55.74%
+correct guesses: 7927
+correct in t_val: 56.62%
+correct guesses: 8042
+correct in t_val: 57.44%
+correct guesses: 8142
+correct in t_val: 58.16%
+correct guesses: 8249
+correct in t_val: 58.92%
+correct guesses: 8319
+correct in t_val: 59.42%
+correct guesses: 8419
+correct in t_val: 60.14%
+correct guesses: 8417
+correct in t_val: 60.12%
+correct guesses: 8592
+correct in t_val: 61.37%
+correct guesses: 8453
+correct in t_val: 60.38%
+correct guesses: 8845
+correct in t_val: 63.18%
+correct guesses: 8575
+correct in t_val: 61.25%
+correct guesses: 8737
+correct in t_val: 62.41%
+correct guesses: 8766
+correct in t_val: 62.61%
+correct guesses: 9357
+correct in t_val: 66.84%
+correct guesses: 8883
+correct in t_val: 63.45%
+correct guesses: 9364
+correct in t_val: 66.89%
+correct guesses: 9185
+correct in t_val: 65.61%
+correct guesses: 9281
+correct in t_val: 66.29%
+correct guesses: 9160
+correct in t_val: 65.43%
+correct guesses: 9259
+correct in t_val: 66.14%
+correct guesses: 9039
+correct in t_val: 64.56%
+correct guesses: 9222
+correct in t_val: 65.87%
+correct guesses: 8896
+correct in t_val: 63.54%
+correct guesses: 9253
+correct in t_val: 66.09%
+correct guesses: 8607
+correct in t_val: 61.48%
+correct guesses: 9276
+correct in t_val: 66.26%
+correct guesses: 8218
+correct in t_val: 58.70%
+correct guesses: 8978
+correct in t_val: 64.13%
+correct guesses: 8048
+correct in t_val: 57.49%
+correct guesses: 9120
+correct in t_val: 65.14%
+correct guesses: 9240
+correct in t_val: 66.00%
+correct guesses: 9150
+correct in t_val: 65.36%
+correct guesses: 9868
+correct in t_val: 70.49%
+correct guesses: 9360
+correct in t_val: 66.86%
+correct guesses: 9838
+correct in t_val: 70.27%
+correct guesses: 9410
+correct in t_val: 67.21%
+Total running time: 0:00:33.691786
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:00:50.531581
+correct guesses: 4565
+correct in t_val: 32.61%
+correct guesses: 5600
+correct in t_val: 40.00%
+correct guesses: 6654
+correct in t_val: 47.53%
+correct guesses: 6713
+correct in t_val: 47.95%
+correct guesses: 7035
+correct in t_val: 50.25%
+correct guesses: 7076
+correct in t_val: 50.54%
+correct guesses: 7239
+correct in t_val: 51.71%
+correct guesses: 7354
+correct in t_val: 52.53%
+correct guesses: 7481
+correct in t_val: 53.44%
+correct guesses: 7592
+correct in t_val: 54.23%
+correct guesses: 7700
+correct in t_val: 55.00%
+correct guesses: 7796
+correct in t_val: 55.69%
+correct guesses: 7886
+correct in t_val: 56.33%
+correct guesses: 7961
+correct in t_val: 56.86%
+correct guesses: 8035
+correct in t_val: 57.39%
+correct guesses: 8134
+correct in t_val: 58.10%
+correct guesses: 8190
+correct in t_val: 58.50%
+correct guesses: 8265
+correct in t_val: 59.04%
+correct guesses: 8324
+correct in t_val: 59.46%
+correct guesses: 8414
+correct in t_val: 60.10%
+correct guesses: 8441
+correct in t_val: 60.29%
+correct guesses: 8494
+correct in t_val: 60.67%
+correct guesses: 8517
+correct in t_val: 60.84%
+correct guesses: 8701
+correct in t_val: 62.15%
+correct guesses: 8569
+correct in t_val: 61.21%
+correct guesses: 9173
+correct in t_val: 65.52%
+correct guesses: 8441
+correct in t_val: 60.29%
+correct guesses: 9308
+correct in t_val: 66.49%
+correct guesses: 8728
+correct in t_val: 62.34%
+correct guesses: 9237
+correct in t_val: 65.98%
+correct guesses: 9004
+correct in t_val: 64.31%
+correct guesses: 9195
+correct in t_val: 65.68%
+correct guesses: 9178
+correct in t_val: 65.56%
+correct guesses: 9209
+correct in t_val: 65.78%
+correct guesses: 9227
+correct in t_val: 65.91%
+correct guesses: 9194
+correct in t_val: 65.67%
+correct guesses: 9307
+correct in t_val: 66.48%
+correct guesses: 9156
+correct in t_val: 65.40%
+correct guesses: 9376
+correct in t_val: 66.97%
+correct guesses: 9061
+correct in t_val: 64.72%
+correct guesses: 9388
+correct in t_val: 67.06%
+correct guesses: 8882
+correct in t_val: 63.44%
+correct guesses: 9304
+correct in t_val: 66.46%
+correct guesses: 8747
+correct in t_val: 62.48%
+correct guesses: 9327
+correct in t_val: 66.62%
+correct guesses: 8950
+correct in t_val: 63.93%
+correct guesses: 9526
+correct in t_val: 68.04%
+correct guesses: 9151
+correct in t_val: 65.36%
+correct guesses: 9470
+correct in t_val: 67.64%
+correct guesses: 8843
+correct in t_val: 63.16%
+Total running time: 0:00:34.080897
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:07:52.661419
+correct guesses: 4875
+correct in t_val: 34.82%
+correct guesses: 5582
+correct in t_val: 39.87%
+correct guesses: 6316
+correct in t_val: 45.11%
+correct guesses: 6337
+correct in t_val: 45.26%
+correct guesses: 6700
+correct in t_val: 47.86%
+correct guesses: 6861
+correct in t_val: 49.01%
+correct guesses: 7060
+correct in t_val: 50.43%
+correct guesses: 7227
+correct in t_val: 51.62%
+correct guesses: 7389
+correct in t_val: 52.78%
+correct guesses: 7525
+correct in t_val: 53.75%
+correct guesses: 7632
+correct in t_val: 54.51%
+correct guesses: 7769
+correct in t_val: 55.49%
+correct guesses: 7879
+correct in t_val: 56.28%
+correct guesses: 8002
+correct in t_val: 57.16%
+correct guesses: 8078
+correct in t_val: 57.70%
+correct guesses: 8163
+correct in t_val: 58.31%
+correct guesses: 8233
+correct in t_val: 58.81%
+correct guesses: 8274
+correct in t_val: 59.10%
+correct guesses: 8339
+correct in t_val: 59.56%
+correct guesses: 8365
+correct in t_val: 59.75%
+correct guesses: 8430
+correct in t_val: 60.21%
+correct guesses: 8395
+correct in t_val: 59.96%
+correct guesses: 8571
+correct in t_val: 61.22%
+correct guesses: 8393
+correct in t_val: 59.95%
+correct guesses: 8732
+correct in t_val: 62.37%
+correct guesses: 8250
+correct in t_val: 58.93%
+correct guesses: 9069
+correct in t_val: 64.78%
+correct guesses: 8026
+correct in t_val: 57.33%
+correct guesses: 8853
+correct in t_val: 63.24%
+correct guesses: 8565
+correct in t_val: 61.18%
+correct guesses: 9551
+correct in t_val: 68.22%
+correct guesses: 8924
+correct in t_val: 63.74%
+correct guesses: 9450
+correct in t_val: 67.50%
+correct guesses: 9063
+correct in t_val: 64.74%
+correct guesses: 9396
+correct in t_val: 67.11%
+correct guesses: 8994
+correct in t_val: 64.24%
+correct guesses: 9289
+correct in t_val: 66.35%
+correct guesses: 8766
+correct in t_val: 62.61%
+correct guesses: 9288
+correct in t_val: 66.34%
+correct guesses: 8543
+correct in t_val: 61.02%
+correct guesses: 9298
+correct in t_val: 66.41%
+correct guesses: 8312
+correct in t_val: 59.37%
+correct guesses: 9222
+correct in t_val: 65.87%
+correct guesses: 7996
+correct in t_val: 57.11%
+correct guesses: 8607
+correct in t_val: 61.48%
+correct guesses: 8229
+correct in t_val: 58.78%
+correct guesses: 9576
+correct in t_val: 68.40%
+correct guesses: 9072
+correct in t_val: 64.80%
+correct guesses: 9856
+correct in t_val: 70.40%
+correct guesses: 9125
+correct in t_val: 65.18%
+Total running time: 0:00:33.357147
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:10:54.554253
+correct guesses: 5030
+correct in t_val: 35.93%
+correct guesses: 5943
+correct in t_val: 42.45%
+correct guesses: 6323
+correct in t_val: 45.16%
+correct guesses: 6938
+correct in t_val: 49.56%
+correct guesses: 6754
+correct in t_val: 48.24%
+correct guesses: 7106
+correct in t_val: 50.76%
+correct guesses: 7136
+correct in t_val: 50.97%
+correct guesses: 7264
+correct in t_val: 51.89%
+correct guesses: 7363
+correct in t_val: 52.59%
+correct guesses: 7486
+correct in t_val: 53.47%
+correct guesses: 7604
+correct in t_val: 54.31%
+correct guesses: 7693
+correct in t_val: 54.95%
+correct guesses: 7786
+correct in t_val: 55.61%
+correct guesses: 7881
+correct in t_val: 56.29%
+correct guesses: 7964
+correct in t_val: 56.89%
+correct guesses: 8069
+correct in t_val: 57.64%
+correct guesses: 8144
+correct in t_val: 58.17%
+correct guesses: 8268
+correct in t_val: 59.06%
+correct guesses: 8340
+correct in t_val: 59.57%
+correct guesses: 8393
+correct in t_val: 59.95%
+correct guesses: 8495
+correct in t_val: 60.68%
+correct guesses: 8504
+correct in t_val: 60.74%
+correct guesses: 8749
+correct in t_val: 62.49%
+correct guesses: 8556
+correct in t_val: 61.11%
+correct guesses: 8952
+correct in t_val: 63.94%
+correct guesses: 8758
+correct in t_val: 62.56%
+correct guesses: 8919
+correct in t_val: 63.71%
+correct guesses: 8958
+correct in t_val: 63.99%
+correct guesses: 8818
+correct in t_val: 62.99%
+correct guesses: 8960
+correct in t_val: 64.00%
+correct guesses: 8753
+correct in t_val: 62.52%
+correct guesses: 8965
+correct in t_val: 64.04%
+correct guesses: 8700
+correct in t_val: 62.14%
+correct guesses: 8953
+correct in t_val: 63.95%
+correct guesses: 8612
+correct in t_val: 61.51%
+correct guesses: 8813
+correct in t_val: 62.95%
+correct guesses: 8525
+correct in t_val: 60.89%
+correct guesses: 8543
+correct in t_val: 61.02%
+correct guesses: 8493
+correct in t_val: 60.66%
+correct guesses: 8068
+correct in t_val: 57.63%
+correct guesses: 8667
+correct in t_val: 61.91%
+correct guesses: 7900
+correct in t_val: 56.43%
+correct guesses: 8824
+correct in t_val: 63.03%
+correct guesses: 9302
+correct in t_val: 66.44%
+correct guesses: 9103
+correct in t_val: 65.02%
+correct guesses: 9529
+correct in t_val: 68.06%
+correct guesses: 9270
+correct in t_val: 66.21%
+correct guesses: 9363
+correct in t_val: 66.88%
+correct guesses: 9105
+correct in t_val: 65.04%
+correct guesses: 9124
+correct in t_val: 65.17%
+Total running time: 0:00:33.994144
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:12:13.962613
+correct guesses: 5162
+correct in t_val: 36.87%
+correct guesses: 6204
+correct in t_val: 44.31%
+correct guesses: 6486
+correct in t_val: 46.33%
+correct guesses: 6973
+correct in t_val: 49.81%
+correct guesses: 7071
+correct in t_val: 50.51%
+correct guesses: 7314
+correct in t_val: 52.24%
+correct guesses: 7404
+correct in t_val: 52.89%
+correct guesses: 7529
+correct in t_val: 53.78%
+correct guesses: 7622
+correct in t_val: 54.44%
+correct guesses: 7743
+correct in t_val: 55.31%
+correct guesses: 7844
+correct in t_val: 56.03%
+correct guesses: 7936
+correct in t_val: 56.69%
+correct guesses: 8012
+correct in t_val: 57.23%
+correct guesses: 8113
+correct in t_val: 57.95%
+correct guesses: 8164
+correct in t_val: 58.31%
+correct guesses: 8247
+correct in t_val: 58.91%
+correct guesses: 8306
+correct in t_val: 59.33%
+correct guesses: 8393
+correct in t_val: 59.95%
+correct guesses: 8548
+correct in t_val: 61.06%
+correct guesses: 8479
+correct in t_val: 60.56%
+correct guesses: 8842
+correct in t_val: 63.16%
+correct guesses: 8720
+correct in t_val: 62.29%
+correct guesses: 8975
+correct in t_val: 64.11%
+correct guesses: 9038
+correct in t_val: 64.56%
+correct guesses: 8912
+correct in t_val: 63.66%
+correct guesses: 9023
+correct in t_val: 64.45%
+correct guesses: 8879
+correct in t_val: 63.42%
+correct guesses: 9014
+correct in t_val: 64.39%
+correct guesses: 8826
+correct in t_val: 63.04%
+correct guesses: 8988
+correct in t_val: 64.20%
+correct guesses: 8671
+correct in t_val: 61.94%
+correct guesses: 9084
+correct in t_val: 64.89%
+correct guesses: 8444
+correct in t_val: 60.31%
+correct guesses: 9295
+correct in t_val: 66.39%
+correct guesses: 8117
+correct in t_val: 57.98%
+correct guesses: 9120
+correct in t_val: 65.14%
+correct guesses: 8557
+correct in t_val: 61.12%
+correct guesses: 9807
+correct in t_val: 70.05%
+correct guesses: 9336
+correct in t_val: 66.69%
+correct guesses: 10034
+correct in t_val: 71.67%
+correct guesses: 9686
+correct in t_val: 69.19%
+correct guesses: 9768
+correct in t_val: 69.77%
+correct guesses: 9582
+correct in t_val: 68.44%
+correct guesses: 9552
+correct in t_val: 68.23%
+correct guesses: 9382
+correct in t_val: 67.01%
+correct guesses: 9319
+correct in t_val: 66.56%
+correct guesses: 9184
+correct in t_val: 65.60%
+correct guesses: 9101
+correct in t_val: 65.01%
+correct guesses: 9001
+correct in t_val: 64.29%
+correct guesses: 8954
+correct in t_val: 63.96%
+correct guesses: 8798
+correct in t_val: 62.84%
+correct guesses: 8830
+correct in t_val: 63.07%
+correct guesses: 8625
+correct in t_val: 61.61%
+correct guesses: 8889
+correct in t_val: 63.49%
+correct guesses: 8167
+correct in t_val: 58.34%
+correct guesses: 8937
+correct in t_val: 63.84%
+correct guesses: 8634
+correct in t_val: 61.67%
+correct guesses: 9231
+correct in t_val: 65.94%
+correct guesses: 9759
+correct in t_val: 69.71%
+correct guesses: 9670
+correct in t_val: 69.07%
+correct guesses: 9927
+correct in t_val: 70.91%
+correct guesses: 9524
+correct in t_val: 68.03%
+correct guesses: 9585
+correct in t_val: 68.46%
+correct guesses: 9363
+correct in t_val: 66.88%
+correct guesses: 9315
+correct in t_val: 66.54%
+correct guesses: 9156
+correct in t_val: 65.40%
+correct guesses: 9087
+correct in t_val: 64.91%
+correct guesses: 8918
+correct in t_val: 63.70%
+correct guesses: 8899
+correct in t_val: 63.56%
+correct guesses: 8719
+correct in t_val: 62.28%
+correct guesses: 8727
+correct in t_val: 62.34%
+correct guesses: 8440
+correct in t_val: 60.29%
+correct guesses: 8597
+correct in t_val: 61.41%
+correct guesses: 8170
+correct in t_val: 58.36%
+correct guesses: 8968
+correct in t_val: 64.06%
+correct guesses: 7520
+correct in t_val: 53.71%
+correct guesses: 7619
+correct in t_val: 54.42%
+correct guesses: 8396
+correct in t_val: 59.97%
+correct guesses: 8793
+correct in t_val: 62.81%
+correct guesses: 8862
+correct in t_val: 63.30%
+correct guesses: 8981
+correct in t_val: 64.15%
+correct guesses: 9060
+correct in t_val: 64.71%
+correct guesses: 9141
+correct in t_val: 65.29%
+correct guesses: 9173
+correct in t_val: 65.52%
+correct guesses: 9242
+correct in t_val: 66.01%
+correct guesses: 9248
+correct in t_val: 66.06%
+correct guesses: 9290
+correct in t_val: 66.36%
+correct guesses: 9272
+correct in t_val: 66.23%
+correct guesses: 9299
+correct in t_val: 66.42%
+correct guesses: 9323
+correct in t_val: 66.59%
+correct guesses: 9341
+correct in t_val: 66.72%
+correct guesses: 9287
+correct in t_val: 66.34%
+correct guesses: 9301
+correct in t_val: 66.44%
+correct guesses: 9227
+correct in t_val: 65.91%
+correct guesses: 9209
+correct in t_val: 65.78%
+correct guesses: 9167
+correct in t_val: 65.48%
+correct guesses: 8941
+correct in t_val: 63.86%
+correct guesses: 9177
+correct in t_val: 65.55%
+correct guesses: 8680
+correct in t_val: 62.00%
+correct guesses: 9120
+correct in t_val: 65.14%
+Total running time: 0:00:41.101616
+Total iterations: 100
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:13:15.296082
+correct guesses: 5657
+correct in t_val: 40.41%
+correct guesses: 6706
+correct in t_val: 47.90%
+correct guesses: 6995
+correct in t_val: 49.96%
+correct guesses: 7470
+correct in t_val: 53.36%
+correct guesses: 7283
+correct in t_val: 52.02%
+correct guesses: 8015
+correct in t_val: 57.25%
+correct guesses: 7407
+correct in t_val: 52.91%
+correct guesses: 8339
+correct in t_val: 59.56%
+correct guesses: 7808
+correct in t_val: 55.77%
+correct guesses: 8090
+correct in t_val: 57.79%
+correct guesses: 8108
+correct in t_val: 57.91%
+correct guesses: 8209
+correct in t_val: 58.64%
+correct guesses: 8264
+correct in t_val: 59.03%
+correct guesses: 8327
+correct in t_val: 59.48%
+correct guesses: 8399
+correct in t_val: 59.99%
+correct guesses: 8443
+correct in t_val: 60.31%
+correct guesses: 8490
+correct in t_val: 60.64%
+correct guesses: 8554
+correct in t_val: 61.10%
+correct guesses: 8609
+correct in t_val: 61.49%
+correct guesses: 8606
+correct in t_val: 61.47%
+correct guesses: 8632
+correct in t_val: 61.66%
+correct guesses: 8684
+correct in t_val: 62.03%
+correct guesses: 8577
+correct in t_val: 61.26%
+correct guesses: 8821
+correct in t_val: 63.01%
+correct guesses: 8445
+correct in t_val: 60.32%
+correct guesses: 8924
+correct in t_val: 63.74%
+correct guesses: 8166
+correct in t_val: 58.33%
+correct guesses: 9364
+correct in t_val: 66.89%
+correct guesses: 8739
+correct in t_val: 62.42%
+correct guesses: 9654
+correct in t_val: 68.96%
+correct guesses: 9023
+correct in t_val: 64.45%
+correct guesses: 9605
+correct in t_val: 68.61%
+correct guesses: 9020
+correct in t_val: 64.43%
+correct guesses: 9561
+correct in t_val: 68.29%
+correct guesses: 8991
+correct in t_val: 64.22%
+correct guesses: 9393
+correct in t_val: 67.09%
+correct guesses: 8738
+correct in t_val: 62.41%
+correct guesses: 9432
+correct in t_val: 67.37%
+correct guesses: 8463
+correct in t_val: 60.45%
+correct guesses: 9477
+correct in t_val: 67.69%
+correct guesses: 8309
+correct in t_val: 59.35%
+correct guesses: 8835
+correct in t_val: 63.11%
+correct guesses: 8301
+correct in t_val: 59.29%
+correct guesses: 9675
+correct in t_val: 69.11%
+correct guesses: 9509
+correct in t_val: 67.92%
+correct guesses: 9907
+correct in t_val: 70.76%
+correct guesses: 9414
+correct in t_val: 67.24%
+correct guesses: 9897
+correct in t_val: 70.69%
+correct guesses: 9383
+correct in t_val: 67.02%
+correct guesses: 9997
+correct in t_val: 71.41%
+Total running time: 0:00:34.001009
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:14:33.033704
+correct guesses: 5094
+correct in t_val: 36.39%
+correct guesses: 6085
+correct in t_val: 43.46%
+correct guesses: 7131
+correct in t_val: 50.94%
+correct guesses: 7266
+correct in t_val: 51.90%
+correct guesses: 7534
+correct in t_val: 53.81%
+correct guesses: 7693
+correct in t_val: 54.95%
+correct guesses: 7852
+correct in t_val: 56.09%
+correct guesses: 7957
+correct in t_val: 56.84%
+correct guesses: 8057
+correct in t_val: 57.55%
+correct guesses: 8134
+correct in t_val: 58.10%
+correct guesses: 8216
+correct in t_val: 58.69%
+correct guesses: 8315
+correct in t_val: 59.39%
+correct guesses: 8391
+correct in t_val: 59.94%
+correct guesses: 8492
+correct in t_val: 60.66%
+correct guesses: 8543
+correct in t_val: 61.02%
+correct guesses: 8600
+correct in t_val: 61.43%
+correct guesses: 8635
+correct in t_val: 61.68%
+correct guesses: 8698
+correct in t_val: 62.13%
+correct guesses: 8706
+correct in t_val: 62.19%
+correct guesses: 8779
+correct in t_val: 62.71%
+correct guesses: 8741
+correct in t_val: 62.44%
+correct guesses: 8888
+correct in t_val: 63.49%
+correct guesses: 8941
+correct in t_val: 63.86%
+correct guesses: 9056
+correct in t_val: 64.69%
+correct guesses: 9184
+correct in t_val: 65.60%
+correct guesses: 9241
+correct in t_val: 66.01%
+correct guesses: 9137
+correct in t_val: 65.26%
+correct guesses: 9335
+correct in t_val: 66.68%
+correct guesses: 9210
+correct in t_val: 65.79%
+correct guesses: 9238
+correct in t_val: 65.99%
+correct guesses: 9153
+correct in t_val: 65.38%
+correct guesses: 9144
+correct in t_val: 65.31%
+correct guesses: 9032
+correct in t_val: 64.51%
+correct guesses: 9132
+correct in t_val: 65.23%
+correct guesses: 8875
+correct in t_val: 63.39%
+correct guesses: 9184
+correct in t_val: 65.60%
+correct guesses: 8690
+correct in t_val: 62.07%
+correct guesses: 9333
+correct in t_val: 66.66%
+correct guesses: 8418
+correct in t_val: 60.13%
+correct guesses: 9368
+correct in t_val: 66.91%
+correct guesses: 8197
+correct in t_val: 58.55%
+correct guesses: 9702
+correct in t_val: 69.30%
+correct guesses: 8992
+correct in t_val: 64.23%
+correct guesses: 10046
+correct in t_val: 71.76%
+correct guesses: 9331
+correct in t_val: 66.65%
+correct guesses: 9899
+correct in t_val: 70.71%
+correct guesses: 9529
+correct in t_val: 68.06%
+correct guesses: 9589
+correct in t_val: 68.49%
+correct guesses: 9442
+correct in t_val: 67.44%
+correct guesses: 9382
+correct in t_val: 67.01%
+Total running time: 0:00:34.293087
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:15:13.758770
+correct guesses: 5715
+correct in t_val: 40.82%
+correct guesses: 6905
+correct in t_val: 49.32%
+correct guesses: 7328
+correct in t_val: 52.34%
+correct guesses: 7761
+correct in t_val: 55.44%
+correct guesses: 7956
+correct in t_val: 56.83%
+correct guesses: 8159
+correct in t_val: 58.28%
+correct guesses: 8319
+correct in t_val: 59.42%
+correct guesses: 8521
+correct in t_val: 60.86%
+correct guesses: 8576
+correct in t_val: 61.26%
+correct guesses: 8775
+correct in t_val: 62.68%
+correct guesses: 8772
+correct in t_val: 62.66%
+correct guesses: 9129
+correct in t_val: 65.21%
+correct guesses: 8821
+correct in t_val: 63.01%
+correct guesses: 9444
+correct in t_val: 67.46%
+correct guesses: 8832
+correct in t_val: 63.09%
+correct guesses: 9565
+correct in t_val: 68.32%
+correct guesses: 9218
+correct in t_val: 65.84%
+correct guesses: 9488
+correct in t_val: 67.77%
+correct guesses: 9543
+correct in t_val: 68.16%
+correct guesses: 9544
+correct in t_val: 68.17%
+correct guesses: 9623
+correct in t_val: 68.74%
+correct guesses: 9649
+correct in t_val: 68.92%
+correct guesses: 9673
+correct in t_val: 69.09%
+correct guesses: 9647
+correct in t_val: 68.91%
+correct guesses: 9597
+correct in t_val: 68.55%
+correct guesses: 9667
+correct in t_val: 69.05%
+correct guesses: 9418
+correct in t_val: 67.27%
+correct guesses: 9609
+correct in t_val: 68.64%
+correct guesses: 9058
+correct in t_val: 64.70%
+correct guesses: 9428
+correct in t_val: 67.34%
+correct guesses: 8764
+correct in t_val: 62.60%
+correct guesses: 9606
+correct in t_val: 68.61%
+correct guesses: 9271
+correct in t_val: 66.22%
+correct guesses: 9716
+correct in t_val: 69.40%
+correct guesses: 9372
+correct in t_val: 66.94%
+correct guesses: 10069
+correct in t_val: 71.92%
+correct guesses: 9465
+correct in t_val: 67.61%
+correct guesses: 10117
+correct in t_val: 72.26%
+correct guesses: 9757
+correct in t_val: 69.69%
+correct guesses: 9998
+correct in t_val: 71.41%
+correct guesses: 9819
+correct in t_val: 70.14%
+correct guesses: 9805
+correct in t_val: 70.04%
+correct guesses: 9654
+correct in t_val: 68.96%
+correct guesses: 9656
+correct in t_val: 68.97%
+correct guesses: 9474
+correct in t_val: 67.67%
+correct guesses: 9431
+correct in t_val: 67.36%
+correct guesses: 9239
+correct in t_val: 65.99%
+correct guesses: 9240
+correct in t_val: 66.00%
+correct guesses: 8990
+correct in t_val: 64.21%
+correct guesses: 9049
+correct in t_val: 64.64%
+Total running time: 0:00:34.152482
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:20:16.056998
+correct guesses: 5707
+correct in t_val: 40.76%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+correct guesses: 1363
+correct in t_val: 9.74%
+Total running time: 0:00:31.511835
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:22:03.930953
+correct guesses: 8837
+correct in t_val: 63.12%
+correct guesses: 11012
+correct in t_val: 78.66%
+correct guesses: 11961
+correct in t_val: 85.44%
+correct guesses: 12243
+correct in t_val: 87.45%
+correct guesses: 12382
+correct in t_val: 88.44%
+correct guesses: 12482
+correct in t_val: 89.16%
+correct guesses: 12501
+correct in t_val: 89.29%
+correct guesses: 12545
+correct in t_val: 89.61%
+correct guesses: 12577
+correct in t_val: 89.84%
+correct guesses: 12607
+correct in t_val: 90.05%
+correct guesses: 12642
+correct in t_val: 90.30%
+correct guesses: 12644
+correct in t_val: 90.31%
+correct guesses: 12645
+correct in t_val: 90.32%
+correct guesses: 12670
+correct in t_val: 90.50%
+correct guesses: 12670
+correct in t_val: 90.50%
+correct guesses: 12675
+correct in t_val: 90.54%
+correct guesses: 12617
+correct in t_val: 90.12%
+correct guesses: 12461
+correct in t_val: 89.01%
+correct guesses: 11883
+correct in t_val: 84.88%
+correct guesses: 11463
+correct in t_val: 81.88%
+correct guesses: 11648
+correct in t_val: 83.20%
+correct guesses: 12159
+correct in t_val: 86.85%
+correct guesses: 12447
+correct in t_val: 88.91%
+correct guesses: 12623
+correct in t_val: 90.16%
+correct guesses: 12653
+correct in t_val: 90.38%
+correct guesses: 12674
+correct in t_val: 90.53%
+correct guesses: 12684
+correct in t_val: 90.60%
+correct guesses: 12689
+correct in t_val: 90.64%
+correct guesses: 12675
+correct in t_val: 90.54%
+correct guesses: 12679
+correct in t_val: 90.56%
+correct guesses: 12629
+correct in t_val: 90.21%
+correct guesses: 12573
+correct in t_val: 89.81%
+correct guesses: 12259
+correct in t_val: 87.56%
+correct guesses: 11870
+correct in t_val: 84.79%
+correct guesses: 11120
+correct in t_val: 79.43%
+correct guesses: 10519
+correct in t_val: 75.14%
+correct guesses: 11388
+correct in t_val: 81.34%
+correct guesses: 11753
+correct in t_val: 83.95%
+correct guesses: 11759
+correct in t_val: 83.99%
+correct guesses: 12075
+correct in t_val: 86.25%
+correct guesses: 12377
+correct in t_val: 88.41%
+correct guesses: 12581
+correct in t_val: 89.86%
+correct guesses: 12719
+correct in t_val: 90.85%
+correct guesses: 12733
+correct in t_val: 90.95%
+correct guesses: 12746
+correct in t_val: 91.04%
+correct guesses: 12737
+correct in t_val: 90.98%
+correct guesses: 12753
+correct in t_val: 91.09%
+correct guesses: 12738
+correct in t_val: 90.99%
+correct guesses: 12738
+correct in t_val: 90.99%
+correct guesses: 12726
+correct in t_val: 90.90%
+Total running time: 0:00:36.964563
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:23:43.892663
+correct guesses: 2085
+correct in t_val: 14.89%
+correct guesses: 9478
+correct in t_val: 67.70%
+correct guesses: 11209
+correct in t_val: 80.06%
+correct guesses: 11429
+correct in t_val: 81.64%
+correct guesses: 11612
+correct in t_val: 82.94%
+correct guesses: 11822
+correct in t_val: 84.44%
+correct guesses: 12148
+correct in t_val: 86.77%
+correct guesses: 12407
+correct in t_val: 88.62%
+correct guesses: 12498
+correct in t_val: 89.27%
+correct guesses: 12535
+correct in t_val: 89.54%
+correct guesses: 12567
+correct in t_val: 89.76%
+correct guesses: 12589
+correct in t_val: 89.92%
+correct guesses: 12618
+correct in t_val: 90.13%
+correct guesses: 12638
+correct in t_val: 90.27%
+correct guesses: 12637
+correct in t_val: 90.26%
+correct guesses: 12656
+correct in t_val: 90.40%
+correct guesses: 12659
+correct in t_val: 90.42%
+correct guesses: 12620
+correct in t_val: 90.14%
+correct guesses: 12625
+correct in t_val: 90.18%
+correct guesses: 12454
+correct in t_val: 88.96%
+correct guesses: 12292
+correct in t_val: 87.80%
+correct guesses: 11779
+correct in t_val: 84.14%
+correct guesses: 11265
+correct in t_val: 80.46%
+correct guesses: 11033
+correct in t_val: 78.81%
+correct guesses: 11206
+correct in t_val: 80.04%
+correct guesses: 11772
+correct in t_val: 84.09%
+correct guesses: 12184
+correct in t_val: 87.03%
+correct guesses: 12370
+correct in t_val: 88.36%
+correct guesses: 12501
+correct in t_val: 89.29%
+correct guesses: 12659
+correct in t_val: 90.42%
+correct guesses: 12684
+correct in t_val: 90.60%
+correct guesses: 12717
+correct in t_val: 90.84%
+correct guesses: 12696
+correct in t_val: 90.69%
+correct guesses: 12731
+correct in t_val: 90.94%
+correct guesses: 12688
+correct in t_val: 90.63%
+correct guesses: 12721
+correct in t_val: 90.86%
+correct guesses: 12677
+correct in t_val: 90.55%
+correct guesses: 12694
+correct in t_val: 90.67%
+correct guesses: 12598
+correct in t_val: 89.99%
+correct guesses: 12519
+correct in t_val: 89.42%
+correct guesses: 12232
+correct in t_val: 87.37%
+correct guesses: 11731
+correct in t_val: 83.79%
+correct guesses: 10860
+correct in t_val: 77.57%
+correct guesses: 10647
+correct in t_val: 76.05%
+correct guesses: 11034
+correct in t_val: 78.81%
+correct guesses: 11650
+correct in t_val: 83.21%
+correct guesses: 12058
+correct in t_val: 86.13%
+correct guesses: 12307
+correct in t_val: 87.91%
+correct guesses: 12387
+correct in t_val: 88.48%
+correct guesses: 12408
+correct in t_val: 88.63%
+correct guesses: 12590
+correct in t_val: 89.93%
+Total running time: 0:00:34.396168
+Total iterations: 50
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:28:01.184633
+correct guesses: 9552
+correct in t_val: 68.23%
+correct guesses: 11048
+correct in t_val: 78.91%
+correct guesses: 11427
+correct in t_val: 81.62%
+correct guesses: 11836
+correct in t_val: 84.54%
+correct guesses: 12091
+correct in t_val: 86.36%
+correct guesses: 12285
+correct in t_val: 87.75%
+correct guesses: 12349
+correct in t_val: 88.21%
+correct guesses: 12397
+correct in t_val: 88.55%
+correct guesses: 12421
+correct in t_val: 88.72%
+Total running time: 0:00:28.033817
+Total iterations: 8
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:28:58.627903
+correct guesses: 8546
+correct in t_val: 61.04%
+correct guesses: 11480
+correct in t_val: 82.00%
+correct guesses: 11811
+correct in t_val: 84.36%
+correct guesses: 12022
+correct in t_val: 85.87%
+correct guesses: 12046
+correct in t_val: 86.04%
+correct guesses: 12098
+correct in t_val: 86.41%
+correct guesses: 12111
+correct in t_val: 86.51%
+Total running time: 0:00:28.069614
+Total iterations: 6
+Program finished successfully.
+
+
+New test called at: 2020-12-14 11:30:15.243749
+correct guesses: 9301
+correct in t_val: 66.44%
+correct guesses: 10964
+correct in t_val: 78.31%
+correct guesses: 11357
+correct in t_val: 81.12%
+correct guesses: 11673
+correct in t_val: 83.38%
+correct guesses: 11919
+correct in t_val: 85.14%
+correct guesses: 12268
+correct in t_val: 87.63%
+correct guesses: 12407
+correct in t_val: 88.62%
+correct guesses: 12498
+correct in t_val: 89.27%
+correct guesses: 12522
+correct in t_val: 89.44%
+correct guesses: 12554
+correct in t_val: 89.67%
+correct guesses: 12576
+correct in t_val: 89.83%
+correct guesses: 12605
+correct in t_val: 90.04%
+correct guesses: 12615
+correct in t_val: 90.11%
+Total running time: 0:00:30.688134
+Total iterations: 12
+Program finished successfully.
