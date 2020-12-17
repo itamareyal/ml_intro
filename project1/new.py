@@ -49,7 +49,17 @@ def cross_entropy_loss(y, t):
     #
     #         if t[n][k] == 1 and y[n][k]>0:
     #             loss += -np.log(y[n][k])
-    return -np.sum(np.log(y[t==1]))
+    # a = W.dot(X.T).T.astype('float64')
+    # exp_a = np.exp(a - np.max(a, axis=1, keepdims=True))
+    # sum_exp_a = np.sum(exp_a, axis=1, keepdims=True)
+    # rel_exp_a= exp_a[t==1]
+    # #rel_sum_exp_a = sum_exp_a[t==1]
+    # lny1= np.log(rel_exp_a)
+    # lny2=-np.log(sum_exp_a)
+    # E=-np.sum(lny1+lny2)
+    E= -np.sum(np.log(y[t==1]))
+    print(E)
+    return E
 
 # def precision_on_set(W, X_set, T_set, set_name, f):
 #     #wx = np.transpose(W.dot(np.transpose(X_set)))
@@ -94,15 +104,16 @@ t = t[permutation] # arranging the correct labelflatten the data from pictures t
 
 # 3- construct the X matrix.
 X= np.c_[X, np.ones(X.shape[0]).astype('float16')] # adding '1' to the end of each photo vector.
-                                                   #X=[x0^T,x1^T...,x9^T]^T
+                                                   #X=[x0^T,x1^T...,x9^T]^T (10 rows)
 
 # 4- split the DataBse into: training set- 60%, validation set- 20%, test set-20%.
 X_train, X_test, t_train, t_test = train_test_split(X, t, train_size= 0.6)
 X_test, X_val,t_test, t_val= train_test_split(X_test, t_test, test_size= 0.5) # split half of the test_set into validation set.
 
 # 5 - initialize the Wights vectors, values [0,1]
-W = np.random.rand(NUMBER_OF_LABELS, IMG_SIZE * IMG_SIZE + 1).astype('float16') #W=[w0^T,w1^T...,w9^T]^T
-W[W == 0] = 0.01 # eliminate zero w elements (at this point they are random)
+#W = np.random.rand(NUMBER_OF_LABELS, IMG_SIZE * IMG_SIZE + 1).astype('float16') #W=[w0^T,w1^T...,w9^T]^T (10 rows)
+W = np.random.uniform(low=0, high=0.01, size=(NUMBER_OF_LABELS,IMG_SIZE*IMG_SIZE + 1)).astype('float64')
+
 
 # The next lines standardize the images
 scaler = StandardScaler()
@@ -132,7 +143,7 @@ while accuracy_diff > precision and i < max_iters:
 
     grad_E = X_train.T.dot(y-t_train) # the gradient of loss.
     # 7- gradient descent
-    W = W - np.multiply(eta, grad_E.T) # update W
+    W = W - eta*grad_E.T # update W
 
     # calc Validation Set accuracy
     valSet_accuracy =get_set_accuracy(W,X_val,t_val)
