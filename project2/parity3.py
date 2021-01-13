@@ -12,6 +12,7 @@ Libraries: numpy, matplotlib.
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.utils import check_random_state
+import sys
 
 
 '''
@@ -27,18 +28,19 @@ x_train = np.array([[0,0,0],
                     [1,1,1]])
 
 ETA = 2
-
+ITERATIONS = 2000
+TURNS = 100
 
 '''
     IMPLEMENTATIONS
 '''
 
-def logistic_sigmoin(x):
+def logistic_sigmoid(x):
     exp = np.exp(-x)
     return np.divide(1,(np.add(1,exp)))
 
 def error(y,t):
-    return np.divide(np.sum(np.power( np.add(y, - t) , 2 )) , 8)
+    return np.sum(np.power( np.add(y, - t) , 2 )) / 8
 
 def build_t_train(x):
     sums = np.sum(x, axis=1)
@@ -55,17 +57,12 @@ def build_w():
 
 t_train = build_t_train(x_train)
 
-# shuffle the DataBase
-random_state = check_random_state(1)
-permutation = random_state.permutation(x_train.shape[0]) # a random arrangement of the indexes in the range [0,X.shape[0]]
-x_train = x_train[permutation] # shuffling the order of the pictures.
-t_train = t_train[permutation] # arranging the correct labels accordingly.
-t_train = np.reshape(t_train, (8,1))
+
 
 w= build_w()
-print(x_train)
-print(w)
-print(w[0])
+# print(x_train)
+# print(w)
+# print(w[0])
 
 
 # E = np.zeros(size=(100,2000))
@@ -91,29 +88,69 @@ def get_ai(z, row_w):
 
 
 def parity_3(x, t):
-    E = np.zeros(shape=(1,2000))
+
     w = build_w()
     a = np.zeros(shape=(8,3))
-    for i in range(3):
-        a[:,i]=get_ai(x, w[i])
-    print("a: \n",a)
-    # get z of the only hidden layer
-    z = logistic_sigmoin(a)
-    print("z: \n",z)
+    E = np.zeros(2000)
 
-    a_out = get_ai(z, w[3])
-    y = logistic_sigmoin(a_out).T
-    print("y: \n", y)
 
-    E = []
-    E.append(error(y,t))
-    for iter in range(2000):
+
+
+
+    for iter in range(ITERATIONS):
+
+        for i in range(3):
+            a[:, i] = get_ai(x, w[i])
+        # print("a: \n",a)
+        # get z of the only hidden layer
+        z = logistic_sigmoid(a)
+        # print("z: \n",z)
+
+        a_out = get_ai(z, w[3])
+        y = logistic_sigmoid(a_out).T
+        # print("y: \n", y)
+
+        E[iter] = error(y, t)
+
+
         delta_out  =get_delta_output(t,y)
-        print(delta_out)
-        get_delta_hl(delta_out, z, w[3][1:])
-        #w = w - ETA * np.sum(delta_out,
-    return
+        #print(delta_out)
+        delta_hl = get_delta_hl(delta_out, z, w[3][1:])
 
-parity_3(x_train,t_train)
+
+        w[3][1:] = np.add(w[3][1:] , - ETA * np.sum(np.multiply(delta_out, z), axis=0))
+
+        for node in range(3):
+            w[node][1:] = np.add(w[node][1:] , - ETA * np.sum(np.multiply(delta_hl, x), axis=0))
+
+        # prog = iter * 100 / 2000
+        # sys.stdout.write("\r%d%% " % prog)
+        # sys.stdout.flush()
+    return E
+
+
+E_mat = np.zeros(shape=(100,2000))
+for turn in range(TURNS):
+    # print('turn ' + str(turn))
+    # shuffle the DataBase
+    random_state = check_random_state(1)
+    permutation = random_state.permutation(x_train.shape[0]) # a random arrangement of the indexes in the range [0,X.shape[0]]
+    x_train = x_train[permutation] # shuffling the order of the pictures.
+    t_train = t_train[permutation] # arranging the correct labels accordingly.
+    t_train = np.reshape(t_train, (8,1))
+    err_vector = parity_3(x_train,t_train)
+    # print('err calculated')
+    E_mat[turn] = err_vector
+
+
+results = np.mean(E_mat, axis=0)
+print('results: ' +str(results))
+plt.figure(0)
+plt.plot(results)
+plt.suptitle('Part A - Mean square error by iteration:', fontsize=12, fontweight='bold')
+plt.xlabel("iteration")
+plt.ylabel("MSE")
+plt.show()
+
 
 
